@@ -13,3 +13,6 @@
 [移动端弹窗滚动穿透问题](https://github.com/yihan12/day-to-day/blob/master/202009/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%B9%E7%AA%97%E6%BB%9A%E5%8A%A8%E7%A9%BF%E9%80%8F%E9%97%AE%E9%A2%98.md)
 
 [逻辑运算为 true](https://github.com/yihan12/day-to-day/blob/master/202009/%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E4%B8%BAtrue.md)
+
+[chrome浏览器性能分析](https://github.com/yihan12/day-to-day/blob/master/202009/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90.md)
+
