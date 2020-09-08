@@ -14,5 +14,5 @@
 
 [逻辑运算为 true](https://github.com/yihan12/day-to-day/blob/master/202009/%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E4%B8%BAtrue.md)
 
-[chrome浏览器性能分析](https://github.com/yihan12/day-to-day/blob/master/202009/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90.md)
+[多个基本类型计算.md](https://github.com/yihan12/day-to-day/blob/master/202009/%E5%A4%9A%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E8%AE%A1%E7%AE%97.md)
 
