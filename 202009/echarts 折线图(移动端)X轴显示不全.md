@@ -58,6 +58,8 @@ xAxis:{
                 ret += temp; //凭借最终的字符串
             }
             return ret
+          }else{
+            return value 
           }
         }else{
           return value
@@ -103,6 +105,8 @@ op1:{
                   ret += temp; //凭借最终的字符串
               }
               return ret
+            }else{
+              return value 
             }
           }else{
             return value
