@@ -19,3 +19,5 @@
 [webpack笔记](https://github.com/yihan12/day-to-day/blob/master/202009/webpack%E7%AC%94%E8%AE%B0.md)
 
 [null和undefined的区别](https://github.com/yihan12/day-to-day/blob/master/202009/null%E5%92%8Cundefined%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+[文字超出省略号类型](https://github.com/yihan12/day-to-day/blob/master/202009/%E6%96%87%E5%AD%97%E8%B6%85%E5%87%BA%E7%9C%81%E7%95%A5%E5%8F%B7%E7%B1%BB%E5%9E%8B.md)
