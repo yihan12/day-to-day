@@ -23,3 +23,6 @@
 [文字超出省略号类型](https://github.com/yihan12/day-to-day/blob/master/202009/%E6%96%87%E5%AD%97%E8%B6%85%E5%87%BA%E7%9C%81%E7%95%A5%E5%8F%B7%E7%B1%BB%E5%9E%8B.md)
 
 [echarts 折线图(移动端)X轴显示不全](https://github.com/yihan12/day-to-day/blob/master/202009/echarts%20%E6%8A%98%E7%BA%BF%E5%9B%BE(%E7%A7%BB%E5%8A%A8%E7%AB%AF)X%E8%BD%B4%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A8.md)
+
+[IOS微信分享问题（h5页面），签名报错invalid signature](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E5%BE%AE%E4%BF%A1%E5%88%86%E4%BA%AB%E9%97%AE%E9%A2%98%EF%BC%88h5%E9%A1%B5%E9%9D%A2%EF%BC%89%EF%BC%8C%E7%AD%BE%E5%90%8D%E6%8A%A5%E9%94%99invalid%20signature.md)
+
