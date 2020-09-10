@@ -26,3 +26,7 @@
 
 [IOS微信分享问题（h5页面），签名报错invalid signature](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E5%BE%AE%E4%BF%A1%E5%88%86%E4%BA%AB%E9%97%AE%E9%A2%98%EF%BC%88h5%E9%A1%B5%E9%9D%A2%EF%BC%89%EF%BC%8C%E7%AD%BE%E5%90%8D%E6%8A%A5%E9%94%99invalid%20signature.md)
 
+[IOS调用微信扫一扫scanQRCode报错the permission value is offline verifying](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E8%B0%83%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%89%AB%E4%B8%80%E6%89%ABscanQRCode%E6%8A%A5%E9%94%99the%20permission%20value%20is%20offline%20verifying.md)
+
+
+
