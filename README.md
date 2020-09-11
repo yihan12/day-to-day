@@ -28,5 +28,6 @@
 
 [IOS调用微信扫一扫scanQRCode报错the permission value is offline verifying](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E8%B0%83%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%89%AB%E4%B8%80%E6%89%ABscanQRCode%E6%8A%A5%E9%94%99the%20permission%20value%20is%20offline%20verifying.md)
 
+[出网速率问题](https://github.com/yihan12/day-to-day/edit/master/202009/%E5%87%BA%E7%BD%91%E9%80%9F%E7%8E%87%E9%97%AE%E9%A2%98.md)
 
 
