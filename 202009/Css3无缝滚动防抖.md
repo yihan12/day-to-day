@@ -6,10 +6,10 @@
 
 不能用left，margin-left,像这种写法:
 
-```javasccript
+```css
 .donghua.active{
-animation: scoll ease-in-out 1s infinite alternate;
--webkit-animation: scoll ease-in-out 1s infinite alternate;
+  animation: scoll ease-in-out 1s infinite alternate;
+  -webkit-animation: scoll ease-in-out 1s infinite alternate;
 }
 @keyframes scoll  {
   from {
@@ -33,10 +33,10 @@ animation: scoll ease-in-out 1s infinite alternate;
 
 里面的某个元素在手机端会抖动的腻害,改用二维的translate像这样:
 
-```javascript
+```css
 .donghua.active{
-animation: scoll ease-in-out 1s infinite alternate;
--webkit-animation: scoll ease-in-out 1s infinite alternate;
+  animation: scoll ease-in-out 1s infinite alternate;
+  -webkit-animation: scoll ease-in-out 1s infinite alternate;
 }
 @keyframes scoll {
   0% {
