@@ -30,4 +30,5 @@
 
 [出网速率问题](https://github.com/yihan12/day-to-day/edit/master/202009/%E5%87%BA%E7%BD%91%E9%80%9F%E7%8E%87%E9%97%AE%E9%A2%98.md)
 
+[Css3无缝滚动防抖](https://github.com/yihan12/day-to-day/blob/master/202009/Css3%E6%97%A0%E7%BC%9D%E6%BB%9A%E5%8A%A8%E9%98%B2%E6%8A%96.md)
 
