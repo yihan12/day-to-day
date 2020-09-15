@@ -32,3 +32,9 @@
 
 [Css3无缝滚动防抖](https://github.com/yihan12/day-to-day/blob/master/202009/Css3%E6%97%A0%E7%BC%9D%E6%BB%9A%E5%8A%A8%E9%98%B2%E6%8A%96.md)
 
+[Vue EventBus传值的bug(EventBus踩坑)](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20%20EventBus%E4%BC%A0%E5%80%BC%E7%9A%84bug(EventBus%E8%B8%A9%E5%9D%91).md)
+
+[Vue EventBus传值踩坑之Vuex完美解决](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20EventBus%E4%BC%A0%E5%80%BC%E8%B8%A9%E5%9D%91%E4%B9%8BVuex%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3.md)
+
+[bug:Vuex - Computed property “name” was assigned to but it has no setter](https://github.com/yihan12/day-to-day/blob/master/202009/bug:Vuex%20-%20Computed%20property%20%E2%80%9Cname%E2%80%9D%20was%20assigned%20to%20but%20it%20has%20no%20setter.md)
+
