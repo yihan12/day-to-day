@@ -19,7 +19,7 @@ bug
 component
 ```javascript
 computed: {
-  ...mapState({
+  ...mapGetters({
       nameFromStore: 'name'
   }),
   name: {
@@ -62,7 +62,7 @@ export default {
 //component 页面 computed部分
 //computed
   computed: {
-    ...mapGetters({
+    ...mapState({
         common:state => state.common,
         checkStatus:state => state.common.checkStatus
     }),
@@ -109,7 +109,7 @@ export default {
 import {mapState} from "vuex"
 export default {
   computed: {
-    ...mapGetters({
+    ...mapState({
         checkStatus:state => state.common.checkStatus
     }),
   },
