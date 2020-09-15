@@ -127,7 +127,7 @@ export default {
 ```
 
 其他 component页面 更新checkStatus
-```
+```javascript
 import {mapState} from "vuex"
 export default {
   methods:{
