@@ -19,7 +19,7 @@ bug
 component
 ```javascript
 computed: {
-  ...mapGetters({
+  ...mapState({
       nameFromStore: 'name'
   }),
   name: {
