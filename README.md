@@ -38,3 +38,4 @@
 
 [bug:Vuex - Computed property “name” was assigned to but it has no setter](https://github.com/yihan12/day-to-day/blob/master/202009/bug:Vuex%20-%20Computed%20property%20%E2%80%9Cname%E2%80%9D%20was%20assigned%20to%20but%20it%20has%20no%20setter.md)
 
+[vue项目Ctrl+s vscode代码自动格式化](https://github.com/yihan12/day-to-day/blob/master/202009/vue%E9%A1%B9%E7%9B%AECtrl%2Bs%20vscode%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96.md)
