@@ -50,4 +50,146 @@ css样式
   border-radius:1px solid #808080;
   background-color:#fff;
 }
+#talkBottom:before{
+  content:" ";
+  position:absolute;
+  top:100%;
+  left:50px;
+  width:0;
+  height:0;
+  border-left:15px solid transparent;
+  border-top:15px solid #808080;
+  border-right:15px solid transparent;
+}
+
+/*talkBottom*/
+#talkBottom:after{
+  content:" ";
+  position:absolute;
+  top:100%;
+  left:51px;
+  width:0;
+  height:0;
+  border-left:14px solid transparent;
+  border-top:14px solid #fff;
+  border-right:14px solid transparent;
+}
+#talkBottom:hover{
+  color:#fff;
+  background-color:#ff0000;
+}
+#talkBottom:hover:after{
+  width:0;
+  height:0;
+  border-left:14px solid transparent;
+  border-top:14px solid #ff0000;
+  border-right:14px solid transparent;
+}
+
+/*talkTop*/
+#talkTop:before{
+  content:" ";
+  position:absolute;
+  top:-15px;
+  left:50px;
+  width:0;
+  height:0;
+  border-left:15px solid transparent;
+  border-bottom:15px solid #808080;
+  border-right:15px solid transparent;
+}
+#talkTop:after{
+  content:" ";
+  position:absolute;
+  top:-14px;
+  left:51px;
+  width:0;
+  height:0;
+  border-left:14px solid transparent;
+  border-bottom:14px solid #fff;
+  border-right:14px solid transparent;
+}
+#talkTop:hover{
+  color:#fff;
+  background-color:#ff0000;
+}
+#talkTop:hover:after{
+  width:0;
+  height:0;
+  border-left:14px solid transparent;
+  border-bottom:14px solid #ff0000;
+  border-right:14px solid transparent;
+}
+
+
+/*talkLeft*/
+#talkLeft:before{
+  content:" ";
+  position:absolute;
+  top:15px;
+  left:-7px;
+  width:0;
+  height:0;
+  border-top:7px solid transparent;
+  border-right:7px solid #808080;
+  border-bottom:7px solid transparent;
+}
+#talkLeft:after{
+  content:" ";
+  position:absolute;
+  top:16px;
+  left:-6px;
+  width:0;
+  height:0;
+  border-top:6px solid transparent;
+  border-right:6px solid #fff;
+  border-bottom:6px solid transparent;
+}
+#talkLeft:hover{
+  color:#fff;
+  background-color:#ff0000;
+}
+#talkLeft:hover:after{
+  width:0;
+  height:0;
+  border-left:6px solid transparent;
+  border-right:6px solid #ff0000;
+  border-bottom:6px solid transparent;
+}
+
+
+/*talkRight*/
+#talkRight:before{
+  content:" ";
+  position:absolute;
+  top:15px;
+  right:-7px;
+  width:0;
+  height:0;
+  border-top:7px solid transparent;
+  border-left:7px solid #808080;
+  border-bottom:7px solid transparent;
+}
+#talkRight:after{
+  content:" ";
+  position:absolute;
+  top:16px;
+  right:-6px;
+  width:0;
+  height:0;
+  border-top:6px solid transparent;
+  border-left:6px solid #fff;
+  border-bottom:6px solid transparent;
+}
+#talkRight:hover{
+  color:#fff;
+  background-color:#ff0000;
+}
+#talkRight:hover:after{
+  width:0;
+  height:0;
+  border-left:6px solid transparent;
+  border-left:6px solid #ff0000;
+  border-bottom:6px solid transparent;
+}
 ```
