@@ -50,6 +50,9 @@ css样式
   border-radius:1px solid #808080;
   background-color:#fff;
 }
+
+
+/*talkBottom*/
 #talkBottom:before{
   content:" ";
   position:absolute;
@@ -61,8 +64,6 @@ css样式
   border-top:15px solid #808080;
   border-right:15px solid transparent;
 }
-
-/*talkBottom*/
 #talkBottom:after{
   content:" ";
   position:absolute;
