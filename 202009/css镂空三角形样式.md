@@ -38,6 +38,16 @@ css样式
 #talkBottom,
 #talkLeft,
 #talkRight{
-  
+  width:120px;
+  height:40px;
+  margin:60px;
+  line-height:40px;
+  text-aligin:center;
+  position:relative;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;
+  border-radius:1px solid #808080;
+  background-color:#fff;
 }
 ```
