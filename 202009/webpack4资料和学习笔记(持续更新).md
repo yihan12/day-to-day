@@ -1,4 +1,12 @@
-## webpack 
+### webpack4资料总结
+
+[关于webpack4的14个知识点,童叟无欺 - 掘金](https://juejin.im/post/6844903853905674248)
+
+[webpack4入门到手动配置开发环境](https://www.jianshu.com/p/a4cc26d98709)
+
+[webpack4 的30个步骤打造优化到极致的 react 开发环境，如约而至 - 掘金](https://juejin.im/post/6844903862898262024)
+
+### webpack 4
 
 >是一个现代 JavaScript 应用程序的静态模块打包器
 
