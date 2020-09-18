@@ -6,6 +6,8 @@
 
 [webpack4 的30个步骤打造优化到极致的 react 开发环境，如约而至 - 掘金](https://juejin.im/post/6844903862898262024)
 
+[webpack4基本安装](https://webpack.docschina.org/guides/getting-started/)
+
 ### webpack 4
 
 >是一个现代 JavaScript 应用程序的静态模块打包器
