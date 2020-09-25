@@ -45,3 +45,5 @@
 [npm i -S -D -g的区别](https://github.com/yihan12/day-to-day/blob/master/202009/npm%20i%20-S%20-D%20-g%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 [a++和++a的区别](https://github.com/yihan12/day-to-day/blob/master/202009/a++%E5%92%8C++a%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+[vue移动端picker](https://github.com/yihan12/day-to-day/blob/master/202009/vue%E7%A7%BB%E5%8A%A8%E7%AB%AFpicker.md)
