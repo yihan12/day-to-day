@@ -51,3 +51,6 @@
 ### 202010
 
 [css隐藏滚动条](https://github.com/yihan12/day-to-day/blob/master/202010/css%E9%9A%90%E8%97%8F%E6%BB%9A%E5%8A%A8%E6%9D%A1.md)
+
+[vue+element 列表的后台数据更新了,但前端视图未更新](https://github.com/yihan12/day-to-day/blob/master/202010/vue%2Belement%20%E5%88%97%E8%A1%A8%E7%9A%84%E5%90%8E%E5%8F%B0%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0%E4%BA%86%2C%E4%BD%86%E5%89%8D%E7%AB%AF%E8%A7%86%E5%9B%BE%E6%9C%AA%E6%9B%B4%E6%96%B0.md)
+
