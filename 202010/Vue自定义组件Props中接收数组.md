@@ -13,9 +13,11 @@ props: {
 
 ### 报错信息
 
+
 [Vue warn]: Invalid default value for prop "showcontent": Props with type Object/Array must use a factory function to return the default value.
 
-###问题解决
+
+### 问题解决
 
 ```javascript
 props: {
