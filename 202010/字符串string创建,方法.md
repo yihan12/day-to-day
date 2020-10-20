@@ -117,6 +117,7 @@ b)replace(regexp|substr, newSubStr|function)
 作用: replace() 方法返回一个由替换值（replacement）替换部分或所有的模式（pattern）匹配项后的新字符串。模式可以是一个字符串或者一个正则表达式，替换值可以是一个字符串或者一个每次匹配都要调用的回调函数。如果pattern是字符串，则仅替换第一个匹配项。
 
 参数:
+
 regexp (pattern)
 一个RegExp 对象或者其字面量。该正则所匹配的内容会被第二个参数的返回值替换掉。
 
@@ -148,6 +149,7 @@ c)str.split([separator[, limit]])
 作用: split() 方法使用指定的分隔符字符串将一个String对象分割成子字符串数组，以一个指定的分割字串来决定每个拆分的位置。 
 
 参数:
+
 separator
 指定表示每个拆分应发生的点的字符串。separator 可以是一个字符串或正则表达式。 如果纯文本分隔符包含多个字符，则必须找到整个字符串来表示分割点。如果在str中省略或不出现分隔符，则返回的数组包含一个由整个字符串组成的元素。如果分隔符为空字符串，则将str原字符串中每个字符的数组形式返回。
 
@@ -191,4 +193,110 @@ let greetList = ['Hello', ' ', 'Venkat', '!']
 "".concat(null)  // "null"
 "".concat(true)  // "true"
 "".concat(4, 5)  // "45"
+```
+
+#### 5.根据下标截取子串方法
+
+a)str.slice(beginIndex[, endIndex])
+
+作用: slice() 方法提取某个字符串的一部分，并返回一个新的字符串，且不会改动原字符串。
+
+参数:
+
+beginIndex
+从该索引（以 0 为基数）处开始提取原字符串中的字符。如果值为负数，会被当做 strLength + beginIndex 看待，这里的strLength 是字符串的长度（例如， 如果 beginIndex 是 -3 则看作是：strLength - 3）
+
+endIndex
+可选。在该索引（以 0 为基数）处结束提取字符串。如果省略该参数，slice() 会一直提取到字符串末尾。如果该参数为负数，则被看作是 strLength + endIndex，这里的 strLength 就是字符串的长度(例如，如果 endIndex 是 -3，则是, strLength - 3)。
+
+返回值: 返回一个从原字符串中提取出来的新字符串
+
+注意：
+
+一个新的字符串。包括字符串 stringObject 从 start 开始（包括 start）到 end 结束（不包括 end）为止的所有字符。
+
+String 对象的方法 slice()、substring() 和 substr() （不建议使用）都可返回字符串的指定部分。slice() 比 substring() 要灵活一些，因为它允许使用负数作为参数。slice() 与 substr() 有所不同，因为它用两个字符的位置来指定子串，而 substr() 则用字符位置和长度来指定子串。还要注意的是，String.slice() 与 Array.slice() 相似。
+
+```javascript
+let str1 = 'The morning is upon us.', // str1 的长度 length 是 23。
+    str2 = str1.slice(1, 8),
+    str3 = str1.slice(4, -2),
+    str4 = str1.slice(12),
+    str5 = str1.slice(30);
+console.log(str2); // "he morn"
+console.log(str3); // "morning is upon u"
+console.log(str4); // "is upon us."
+console.log(str5); // ""
+
+let str6 = 'The morning is upon us.';
+str6.slice(-3);     // "us."
+str6.slice(-3, -1); // "us"
+str6.slice(0, -1);  // "The morning is upon us"
+```
+
+b)str.substring(indexStart[, indexEnd])
+
+作用: substring() 方法返回一个字符串在开始索引到结束索引之间的一个子集, 或从开始索引直到字符串的末尾的一个子集。
+
+参数：start 必需。一个非负的整数，规定要提取的子串的第一个字符在 stringObject 中的位置。stop可选。一个非负的整数，比要提取的子串的最后一个字符在 stringObject 中的位置多 1。如果省略该参数，那么返回的子串会一直到字符串的结尾。
+
+返回值：一个新的字符串，该字符串值包含 stringObject 的一个子字符串，其内容是从 start 处到 stop-1 处的所有字符，其长度为 stop 减 start。
+
+说明：substring() 方法返回的子串包括 start 处的字符，但不包括 stop 处的字符。如果参数 start 与 stop 相等，那么该方法返回的就是一个空串（即长度为 0 的字符串）。如果 start 比 stop 大，那么该方法在提取子串之前会先交换这两个参数。
+
+```javascript
+let anyString = "Mozilla";
+
+// 输出 "Moz"
+console.log(anyString.substring(0,3));
+console.log(anyString.substring(3,0));
+console.log(anyString.substring(3,-3));
+console.log(anyString.substring(3,NaN));
+console.log(anyString.substring(-2,3));
+console.log(anyString.substring(NaN,3));
+
+// 输出 "lla"
+console.log(anyString.substring(4,7));
+console.log(anyString.substring(7,4));
+
+// 输出 ""
+console.log(anyString.substring(4,4));
+
+// 输出 "Mozill"
+console.log(anyString.substring(0,6));
+
+// 输出 "Mozilla"
+console.log(anyString.substring(0,7));
+console.log(anyString.substring(0,10));
+```
+
+#### 6.根据长度截取子串
+
+a)str.substr(start[, length])
+
+作用: substr() 方法返回一个字符串中从指定位置开始到指定字符数的字符。
+
+警告： 尽管 String.prototype.substr(…) 没有严格被废弃 (as in "removed from the Web standards"), 但它被认作是遗留的函数并且可以的话应该避免使用。它并非JavaScript核心语言的一部分，未来将可能会被移除掉。如果可以的话，使用 substring() 替代它.
+
+参数:
+
+start
+开始提取字符的位置。如果为负值，则被看作 strLength + start，其中 strLength 为字符串的长度（例如，如果 start 为 -3，则被看作 strLength + (-3)）。
+
+length
+可选。提取的字符数。
+
+返回值：一个新的字符串，包含从 stringObject 的 start（包括 start 所指的字符） 处开始的 length 个字符。如果没有指定 length，那么返回的字符串包含从 start 到 stringObject 的结尾的字符。
+
+提示和注释：注释：substr() 的参数指定的是子串的开始位置和长度，因此它可以替代 substring() 和 slice() 来使用。
+
+```javascript
+let str = "abcdefghij";
+
+console.log("(1,2): "    + str.substr(1,2));   // "(1,2): bc"
+console.log("(-3,2): "   + str.substr(-3,2));  // "(-3,2): hi"
+console.log("(-3): "     + str.substr(-3));    // "(-3): hij"
+console.log("(1): "      + str.substr(1));     // "(1): bcdefghij"
+console.log("(-20, 2): " + str.substr(-20,2)); // "(-20, 2): ab"
+console.log("(20, 2): "  + str.substr(20,2));  // "(20, 2):"
 ```
