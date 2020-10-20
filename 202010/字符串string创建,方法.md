@@ -82,11 +82,11 @@ b)lastIndexOf(searchValue，fromIndex)
 
 注意： 该方法将从后向前检索字符串，但返回是从起始位置 (0) 开始计算子字符串最后出现的位置。 看它是否含有字符串。
 
-      开始检索的位置在字符串的 start 处或字符串的结尾（没有指定 start 时）。
+开始检索的位置在字符串的 start 处或字符串的结尾（没有指定 start 时）。
 
-      如果没有找到匹配字符串则返回 -1 
+如果没有找到匹配字符串则返回 -1 
 
-      lastIndexOf() 方法是区分大小写的！
+lastIndexOf() 方法是区分大小写的！
       
 ```javascript
 let str="I am from runoob，welcome to runoob site.";
