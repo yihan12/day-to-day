@@ -119,10 +119,13 @@ b)replace(regexp|substr, newSubStr|function)
 参数:
 regexp (pattern)
 一个RegExp 对象或者其字面量。该正则所匹配的内容会被第二个参数的返回值替换掉。
+
 substr (pattern)
 一个将被 newSubStr 替换的 字符串。其被视为一整个字符串，而不是一个正则表达式。仅第一个匹配项会被替换。
+
 newSubStr (replacement)
 用于替换掉第一个参数在原字符串中的匹配部分的字符串。该字符串中可以内插一些特殊的变量名。参考下面的使用字符串作为参数。
+
 function (replacement)
 一个用来创建新子字符串的函数，该函数的返回值将替换掉第一个参数匹配到的结果。参考下面的指定一个函数作为参数。
 
@@ -147,7 +150,45 @@ c)str.split([separator[, limit]])
 参数:
 separator
 指定表示每个拆分应发生的点的字符串。separator 可以是一个字符串或正则表达式。 如果纯文本分隔符包含多个字符，则必须找到整个字符串来表示分割点。如果在str中省略或不出现分隔符，则返回的数组包含一个由整个字符串组成的元素。如果分隔符为空字符串，则将str原字符串中每个字符的数组形式返回。
+
 limit
 一个整数，限定返回的分割片段数量。当提供此参数时，split 方法会在指定分隔符的每次出现时分割该字符串，但在限制条目已放入数组时停止。如果在达到指定限制之前达到字符串的末尾，它可能仍然包含少于限制的条目。新数组中不返回剩下的文本。
 
 注意：如果使用空字符串(“)作为分隔符，则字符串不是在每个用户感知的字符(图形素集群)之间，也不是在每个Unicode字符(代码点)之间，而是在每个UTF-16代码单元之间。这会摧毁代理对。
+
+```javascript
+let names = "Harry Trump ;Fred Barney; Helen Rigby ; Bill Abel ;Chris Hand ";
+console.log(names); // Harry Trump ;Fred Barney; Helen Rigby ; Bill Abel ;Chris Hand 
+let re = /\s*(?:;|$)\s*/;
+let nameList = names.split(re);
+console.log(nameList); // [ "Harry Trump", "Fred Barney", "Helen Rigby", "Bill Abel", "Chris Hand", "" ]
+
+let myString = "Hello World. How are you doing?";
+let splits = myString.split(" ", 3);
+
+console.log(splits); // ["Hello", "World.", "How"]
+```
+
+#### 4.拼接方法
+
+a)str.concat(str2, [, ...strN])
+
+作用: concat() 方法将一个或多个字符串与原字符串连接合并，形成一个新的字符串并返回。
+
+返回值: 一个新的字符串，包含参数所提供的连接字符串。
+
+注意：用 " + " 运算符来进行字符串的连接运算通常会更简便一些。
+
+```javascript
+let hello = 'Hello, '
+console.log(hello.concat('Kevin', '. Have a nice day.')) // Hello, Kevin. Have a nice day.
+
+let greetList = ['Hello', ' ', 'Venkat', '!']
+"".concat(...greetList)  // "Hello Venkat!"
+
+"".concat({})    // [object Object]
+"".concat([])    // ""
+"".concat(null)  // "null"
+"".concat(true)  // "true"
+"".concat(4, 5)  // "45"
+```
