@@ -55,3 +55,5 @@
 [vue+element 列表的后台数据更新了,但前端视图未更新](https://github.com/yihan12/day-to-day/blob/master/202010/vue%2Belement%20%E5%88%97%E8%A1%A8%E7%9A%84%E5%90%8E%E5%8F%B0%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0%E4%BA%86%2C%E4%BD%86%E5%89%8D%E7%AB%AF%E8%A7%86%E5%9B%BE%E6%9C%AA%E6%9B%B4%E6%96%B0.md)
 
 [Vue自定义组件Props中接收数组](https://github.com/yihan12/day-to-day/blob/master/202010/Vue%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6Props%E4%B8%AD%E6%8E%A5%E6%94%B6%E6%95%B0%E7%BB%84.md)
+
+[字符串string创建,方法](https://github.com/yihan12/day-to-day/blob/master/202010/%E5%AD%97%E7%AC%A6%E4%B8%B2string%E5%88%9B%E5%BB%BA,%E6%96%B9%E6%B3%95.md)
