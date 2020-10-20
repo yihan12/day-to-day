@@ -63,3 +63,32 @@ String.fromCharCode(8212);         // "—"; 8212 是 0x2014 的十进制表示
 
 #### 2.位置方法
 
+a)indexOf(searchValue，fromIndex)
+
+作用: indexOf() 方法可返回某个指定的字符串值在字符串中首次出现的位置。如果没有找到匹配的字符串则返回 -1。
+
+注意：indexOf() 方法区分大小写。searchvalue	必需。规定需检索的字符串值。fromIndex 可选的整数参数。规定在字符串中开始检索的位置。它的合法取值是 0 到 string Object.length - 1。如省略该参数，则将从字符串的首字符开始检索。
+
+语法: string.indexOf(searchvalue,start)
+
+```javascript
+let str="Hello world, welcome to Beijing.";
+console.log(str.indexOf("welcome")); // 13
+```
+
+b)lastIndexOf(searchValue，fromIndex)
+
+作用: lastIndexOf() 方法可返回一个指定的字符串值最后出现的位置，如果指定第二个参数 start，则在一个字符串中的指定位置从后向前搜索。
+
+注意： 该方法将从后向前检索字符串，但返回是从起始位置 (0) 开始计算子字符串最后出现的位置。 看它是否含有字符串。
+
+      开始检索的位置在字符串的 start 处或字符串的结尾（没有指定 start 时）。
+
+      如果没有找到匹配字符串则返回 -1 
+
+      lastIndexOf() 方法是区分大小写的！
+      
+```javascript
+let str="I am from runoob，welcome to runoob site.";
+console.log(str.lastIndexOf("runoob")); // 28
+```
