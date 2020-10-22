@@ -57,3 +57,6 @@
 [Vue自定义组件Props中接收数组](https://github.com/yihan12/day-to-day/blob/master/202010/Vue%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6Props%E4%B8%AD%E6%8E%A5%E6%94%B6%E6%95%B0%E7%BB%84.md)
 
 [字符串string创建,方法](https://github.com/yihan12/day-to-day/blob/master/202010/%E5%AD%97%E7%AC%A6%E4%B8%B2string%E5%88%9B%E5%BB%BA,%E6%96%B9%E6%B3%95.md)
+
+
+[Object.assign()更新对象](https://github.com/yihan12/day-to-day/blob/master/202010/Object.assign()%E6%9B%B4%E6%96%B0%E5%AF%B9%E8%B1%A1.md)
