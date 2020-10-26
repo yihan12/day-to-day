@@ -60,3 +60,7 @@
 
 
 [Object.assign()更新对象](https://github.com/yihan12/day-to-day/blob/master/202010/Object.assign()%E6%9B%B4%E6%96%B0%E5%AF%B9%E8%B1%A1.md)
+
+[js图片压缩推荐](https://github.com/yihan12/day-to-day/blob/master/202010/js%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E6%8E%A8%E8%8D%90.md)
+
+
