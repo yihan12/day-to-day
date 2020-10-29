@@ -68,4 +68,6 @@
 
 [vue两data参数等于res.detail,更新一参数另一参数跟着改变](https://github.com/yihan12/day-to-day/blob/master/202010/vue%E4%B8%A4data%E5%8F%82%E6%95%B0%E7%AD%89%E4%BA%8Eres.detail%2C%E6%9B%B4%E6%96%B0%E4%B8%80%E5%8F%82%E6%95%B0%E5%8F%A6%E4%B8%80%E5%8F%82%E6%95%B0%E8%B7%9F%E7%9D%80%E6%94%B9%E5%8F%98.md)
 
+[git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md)
+
 
