@@ -65,9 +65,9 @@
 
 [webpack 报错(Cannot find moudle 'webpack-cli/bin/config-yargs')](https://github.com/yihan12/day-to-day/blob/master/202010/webpack%20%E6%8A%A5%E9%94%99(Cannot%20find%20moudle%20'webpack-cli%5Cbin%5Cconfig-yargs').md)
 
-
 [vue两data参数等于res.detail,更新一参数另一参数跟着改变](https://github.com/yihan12/day-to-day/blob/master/202010/vue%E4%B8%A4data%E5%8F%82%E6%95%B0%E7%AD%89%E4%BA%8Eres.detail%2C%E6%9B%B4%E6%96%B0%E4%B8%80%E5%8F%82%E6%95%B0%E5%8F%A6%E4%B8%80%E5%8F%82%E6%95%B0%E8%B7%9F%E7%9D%80%E6%94%B9%E5%8F%98.md)
 
 [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md)
 
-
+[echart 设置 Y轴标签在柱状图上垂直居中 失效
+](https://github.com/yihan12/day-to-day/blob/master/202010/echart%20%E8%AE%BE%E7%BD%AE%20Y%E8%BD%B4%E6%A0%87%E7%AD%BE%E5%9C%A8%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%8A%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%20%E5%A4%B1%E6%95%88.md)
