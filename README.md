@@ -66,6 +66,6 @@
 [webpack 报错(Cannot find moudle 'webpack-cli/bin/config-yargs')](https://github.com/yihan12/day-to-day/blob/master/202010/webpack%20%E6%8A%A5%E9%94%99(Cannot%20find%20moudle%20'webpack-cli%5Cbin%5Cconfig-yargs').md)
 
 
-[vue两data参数等于res.detail,更新一参数另一参数跟着改变](https://github.com/yihan12/day-to-day/blob/master/202010/webpack%20%E6%8A%A5%E9%94%99(Cannot%20find%20moudle%20'webpack-cli%5Cbin%5Cconfig-yargs').md)
+[vue两data参数等于res.detail,更新一参数另一参数跟着改变](https://github.com/yihan12/day-to-day/blob/master/202010/vue%E4%B8%A4data%E5%8F%82%E6%95%B0%E7%AD%89%E4%BA%8Eres.detail%2C%E6%9B%B4%E6%96%B0%E4%B8%80%E5%8F%82%E6%95%B0%E5%8F%A6%E4%B8%80%E5%8F%82%E6%95%B0%E8%B7%9F%E7%9D%80%E6%94%B9%E5%8F%98.md)
 
 
