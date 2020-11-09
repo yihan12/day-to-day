@@ -71,3 +71,8 @@
 
 [echart 设置 Y轴标签在柱状图上垂直居中 失效
 ](https://github.com/yihan12/day-to-day/blob/master/202010/echart%20%E8%AE%BE%E7%BD%AE%20Y%E8%BD%B4%E6%A0%87%E7%AD%BE%E5%9C%A8%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%8A%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%20%E5%A4%B1%E6%95%88.md)
+
+### 202011
+
+[日常页码样式问题](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%97%A5%E5%B8%B8%E9%A1%B5%E7%A0%81%E6%A0%B7%E5%BC%8F%E9%97%AE%E9%A2%98.md)
+
