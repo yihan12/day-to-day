@@ -77,3 +77,5 @@
 [日常页码样式问题](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%97%A5%E5%B8%B8%E9%A1%B5%E7%A0%81%E6%A0%B7%E5%BC%8F%E9%97%AE%E9%A2%98.md)
 
 [Js去除字符串中的中括号](https://github.com/yihan12/day-to-day/blob/master/202011/Js%E5%8E%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E4%B8%AD%E6%8B%AC%E5%8F%B7.md)
+
+[js判断文件名是否合法](https://github.com/yihan12/day-to-day/blob/master/202011/js%E5%88%A4%E6%96%AD%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%AF%E5%90%A6%E5%90%88%E6%B3%95.md)
