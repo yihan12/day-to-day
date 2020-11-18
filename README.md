@@ -79,3 +79,6 @@
 [Js去除字符串中的中括号](https://github.com/yihan12/day-to-day/blob/master/202011/Js%E5%8E%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E4%B8%AD%E6%8B%AC%E5%8F%B7.md)
 
 [js判断文件名是否合法](https://github.com/yihan12/day-to-day/blob/master/202011/js%E5%88%A4%E6%96%AD%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%AF%E5%90%A6%E5%90%88%E6%B3%95.md)
+
+
+[普通下载 && Vue文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md)
