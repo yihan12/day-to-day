@@ -82,3 +82,5 @@
 
 
 [普通下载 && Vue文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md)
+
+[css禁止点击事件](https://github.com/yihan12/day-to-day/blob/master/202011/css%E7%A6%81%E6%AD%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6.md)
