@@ -88,3 +88,6 @@
 ### 202012
 
 [textarea去除右下角默认样式](https://github.com/yihan12/day-to-day/blob/master/202012/textarea%E5%8E%BB%E9%99%A4%E5%8F%B3%E4%B8%8B%E8%A7%92%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F.md)
+
+[reduce 一知半解(一):根据id合并两个数组](https://github.com/yihan12/day-to-day/blob/master/202012/reduce%20%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3(%E4%B8%80):%E6%A0%B9%E6%8D%AEid%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%20.md)
+
