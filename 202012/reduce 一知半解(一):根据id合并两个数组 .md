@@ -18,6 +18,8 @@ arr.reduce(function(prev,cur,index,arr){
 
 > init 表示初始值。
 
+注意:其实常用的参数只有两个：prev 和 cur
+
 ### 根据id合并两个数组
 
 ```javascript
