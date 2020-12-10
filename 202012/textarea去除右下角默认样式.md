@@ -1,0 +1,5 @@
+```css
+textarea{
+  resize:none
+}
+```
