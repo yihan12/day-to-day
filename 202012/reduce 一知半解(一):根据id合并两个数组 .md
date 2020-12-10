@@ -30,7 +30,7 @@ const list = arr2.reduce((prev, cur) => {
   } else {
     prev.push(cur);
   }
-  return merge;
+  return prev;
 }, arr1);
 console.log(list)
 ```
@@ -47,7 +47,7 @@ const list = arr2.reduce((prev, cur) => {
   } else {
     prev.push(cur);
   }
-  return merge;
+  return prev;
 }, arr1);
 console.log(list)
 ```
