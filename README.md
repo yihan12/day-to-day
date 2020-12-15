@@ -91,3 +91,6 @@
 
 [reduce 一知半解(一):根据id合并两个数组](https://github.com/yihan12/day-to-day/blob/master/202012/reduce%20%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3(%E4%B8%80):%E6%A0%B9%E6%8D%AEid%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%20.md)
 
+[js格式化json字符串和json对象](https://github.com/yihan12/day-to-day/blob/master/202012/js%E6%A0%BC%E5%BC%8F%E5%8C%96json%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8Cjson%E5%AF%B9%E8%B1%A1.md)
+
+
