@@ -94,3 +94,5 @@
 [js格式化json字符串和json对象](https://github.com/yihan12/day-to-day/blob/master/202012/js%E6%A0%BC%E5%BC%8F%E5%8C%96json%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8Cjson%E5%AF%B9%E8%B1%A1.md)
 
 [原型与原型链一知半解](https://github.com/yihan12/day-to-day/blob/master/202012/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3.md)
+
+[element-ui的input设置小于15的正整数](https://github.com/yihan12/day-to-day/blob/master/202012/element-ui%E7%9A%84input%E8%AE%BE%E7%BD%AE%E5%B0%8F%E4%BA%8E15%E7%9A%84%E6%AD%A3%E6%95%B4%E6%95%B0.md)
