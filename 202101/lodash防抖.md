@@ -22,7 +22,7 @@ import _ from 'lodash'
 export default {
   methods: {
     //方法
-    clickMethod：_.debounce(function(newVal){
+    clickMethod：_.debounce(function(){
 
     //代码块
 
