@@ -100,3 +100,5 @@
 ### 202101
 
 [lodash防抖](https://github.com/yihan12/day-to-day/blob/master/202101/lodash%E9%98%B2%E6%8A%96.md)
+
+[词法作用域和动态作用域](https://github.com/yihan12/day-to-day/blob/master/202101/%E8%AF%8D%E6%B3%95%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E5%8A%A8%E6%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F.md)
