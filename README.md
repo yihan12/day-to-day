@@ -104,3 +104,5 @@
 [词法作用域和动态作用域](https://github.com/yihan12/day-to-day/blob/master/202101/%E8%AF%8D%E6%B3%95%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E5%8A%A8%E6%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F.md)
 
 [element如果Button被Disable了，如何显示Tooltip](https://github.com/yihan12/day-to-day/blob/master/202101/element%E5%A6%82%E6%9E%9CButton%E8%A2%ABDisable%E4%BA%86%EF%BC%8C%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BATooltip.md)
+
+[vue 父子组件传数组eslint报错(Type of the default value for 'arrNew' prop must be a function)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%20%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6%E4%BC%A0%E6%95%B0%E7%BB%84eslint%E6%8A%A5%E9%94%99(Type%20of%20the%20default%20value%20for%20'arrNew'%20prop%20must%20be%20a%20function).md)
