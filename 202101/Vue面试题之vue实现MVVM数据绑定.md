@@ -12,11 +12,11 @@ vue是一个MVVM渐进式框架，MVVM是vue的实际模式，在vue框架中数
 
 **View**：视图层，用户操作页面，当view-model对model更新的时候，会通过数据绑定更新到view。  
 
-> vue组件中的template和style的部分。  
+> 对应vue组件中的template和style的部分。  
 
 **ViewModel**：业务逻辑层，view需要什么数据，ViewModel就提供什么数据，view有些哪些操作，ViewModel就要响应这些操作；View和ViewModel两种交互方式：双向数据传递（数据属性和data binding）和单向传递操作（命令属性）；由于ViewModel的双向数据绑定，当Model发生变化时，ViewModel就会更新，ViewModel变化，Model也会更新。  
 
-> 继承Vue类的组件实例  
+> 对应继承Vue类的组件实例  
 
 vue在MVVM思想下，view和model没有直接联系，但是view和view-model、model和view-model之间是会交互的。当view视图进行dom操作等使数据发生变化时，可以通过view-model同步到model中，同样的model数据变化也会同步到vue中。  
 
