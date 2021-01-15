@@ -4,7 +4,7 @@
 **MVVM**是Model-View-ViewModel,是把一个系统分为了模型（model）、视图（view）和view-model三个部分。vue是一个典型的MVVM思想，**数据驱动视图**。  
 通俗一点就是**view层不直接和model层通信**，他们只能通过view-model层通信。
 
-#### vue是怎么实现MVVM的？  
+#### vue中MVVM的理解  
 vue是一个MVVM渐进式框架，MVVM是vue的实际模式，在vue框架中数据会自动驱动视图。我们写vue就知道它的单文件组件开发方式。  
 **Model**：数据层，仅仅关注数据本身，不关心任何行为。  
 
@@ -18,4 +18,13 @@ vue是一个MVVM渐进式框架，MVVM是vue的实际模式，在vue框架中数
 
 > 继承Vue类的组件实例  
 
-vue在MVVM
+vue在MVVM思想下，view和model没有直接联系，但是view和view-model、model和view-model之间是会交互的。当view视图进行dom操作等使数据发生变化时，可以通过view-model同步到model中，同样的model数据变化也会同步到vue中。  
+
+#### MVVM的数据绑定实现  
+
+* 发布者-订阅模式（backbone.js）  
+* 脏值模式（angular/react）  
+* 数据劫持（vue）  
+
+#### vue数据劫持  
+vue是采用**数据劫持结合发布者-订阅者模式**的方式，通过`Object.defineProperty()`来劫持各个属性的`setter`，`getter`，在数据变动时发布消息给订阅者，触发相应的监听回调。
