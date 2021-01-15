@@ -26,5 +26,10 @@ vue在MVVM思想下，view和model没有直接联系，但是view和view-model�
 * 脏值模式（angular/react）  
 * 数据劫持（vue）  
 
-#### vue数据劫持  
-vue是采用**数据劫持结合发布者-订阅者模式**的方式，通过`Object.defineProperty()`来劫持各个属性的`setter`，`getter`，在数据变动时发布消息给订阅者，触发相应的监听回调。
+### Vue实现MVVM的双向绑定
+
+#### vue数据劫持结合发布者-订阅者模式 
+vue是采用**数据劫持结合发布者-订阅者模式**的方式，通过`Object.defineProperty()`来劫持（监听）各个属性的`setter`，`getter`，在数据（对象）发生变动时发布消息给订阅者，触发相应的监听回调。  
+因此，要实现MVVM的双向绑定就必须要实现以下几点：  
+* 实现一个数据监听器Observer。对数据对象的所有属性进行监听（包括子属性对象的属性），利用`Object.defineProperty()`对属性都加上`setter`和`getter`（这样的话，给这个属性的某个值赋值就会触发 `setter`,那么就能监听数据的变化），如发生变动可拿到最新值并通知订阅者。  
+* 实现一个指令解析器Compile。
