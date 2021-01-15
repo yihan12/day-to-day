@@ -106,3 +106,6 @@
 [element如果Button被Disable了，如何显示Tooltip](https://github.com/yihan12/day-to-day/blob/master/202101/element%E5%A6%82%E6%9E%9CButton%E8%A2%ABDisable%E4%BA%86%EF%BC%8C%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BATooltip.md)
 
 [vue 父子组件传数组eslint报错(Type of the default value for 'arrNew' prop must be a function)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%20%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6%E4%BC%A0%E6%95%B0%E7%BB%84eslint%E6%8A%A5%E9%94%99(Type%20of%20the%20default%20value%20for%20'arrNew'%20prop%20must%20be%20a%20function).md)
+
+
+[Vue面试题之vue实现MVVM数据绑定](https://github.com/yihan12/day-to-day/blob/master/202101/Vue%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8Bvue%E5%AE%9E%E7%8E%B0MVVM%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A.md)
