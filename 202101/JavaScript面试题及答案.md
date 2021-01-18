@@ -7,10 +7,10 @@
 <p>
 
 #### 答案:   
-Number、String、Boolean、Null、Undefined、Symbel（ES6新增）  
+`Number`、`String`、`Boolean`、`Null`、`Undefined`、`Symbel`（ES6新增）  
 Object是JavaScript中所有对象的父对象  
-数据封装类对象：Object、Array、Boolean、Number、和String  
-其他对象：Function、Arguments、Math、Date、RegExp、Error  
+数据封装类对象：`Object`、`Array`、`Boolean`、`Number`、和`String`  
+其他对象：`Function`、`Arguments`、`Math`、`Date`、`RegExp`、`Error`  
 </p>
 </details>  
 
@@ -22,9 +22,9 @@ Object是JavaScript中所有对象的父对象
 <p>
 
 #### 答案:   
-* Object  
-* Function  
-* Array  
+* `Object ` 
+* `Function`  
+* `Array`  
 </p>
 </details>  
 
@@ -49,11 +49,23 @@ Object是JavaScript中所有对象的父对象
 <p>
 
 #### 答案:   
-* 1.typeof：不能判断null和区分Array/Date/RegExp  
-* 2.instanceof：无法检测null和undefined；未必准确；无法判断字面量方式创建的基本数据类型  
-* 3.constructor：无法检测null和undefined；未必准确
-* 4.Object.prototype.toString.call()：无  
+* 1.`typeof`：不能判断null和区分Array/Date/RegExp  
+* 2.`instanceof`：无法检测null和undefined；未必准确（是否处于处于原型链上的方法不准确）；无法判断字面量方式创建的基本数据类型；    
+* 3.`constructor`：无法检测null和undefined；未必准确
+* 4.`Object.prototype.toString.call()`：无；全能方法；  
 </p>
 </details>  
 
 ***
+
+### 5.JavaScript基本数据类型和非基本数据类型的区别  
+
+<details><summary><b>答案</b></summary>
+<p>
+
+#### 答案:   
+* 1.目前JS中有6种基本数据类型：`Undefined`、`Null`、`Boolean`、`Number`、`String`和`Symbel`（ES6新增）。还有一种复杂数据类型----`Object`
+</p>
+</details>  
+
+***  
