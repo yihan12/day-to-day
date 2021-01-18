@@ -73,3 +73,45 @@ Object是JavaScript中所有对象的父对象
 </details>  
 
 ***  
+
+### 6.instanceof操作符  
+
+<details><summary><b>答案</b></summary>
+<p>
+
+#### 答案:   
+判断对象属于某一个类，回去查找对象的constructor的prototype
+</p>
+</details>  
+
+***  
+
+### 7.new操作符的作用  
+
+<details><summary><b>答案</b></summary>
+<p>
+
+#### 答案:   
+* 新生了一个对象  
+* 链接到原型  
+* 绑定this  
+* 返回对象  
+
+```javascript
+function newCreate(){
+  // 创建一个空白对象
+  let obj = new Object();
+  // 获得构造函数
+  let Con = [].shift.call(arguments);
+  // 链接到原型
+  obj.__proto__ = Con.prototype; 
+  // 绑定this,执行构造函数
+  let result = Con.apply(obj,arguments);
+  // 确保new出来的是个对象
+  return typeof result === 'object' ? result : obj;
+}
+```
+</p>
+</details>  
+
+***  
