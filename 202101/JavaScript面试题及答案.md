@@ -3,7 +3,7 @@
 
 ### 1.JavaScript的基本数据类型  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -18,7 +18,7 @@ Object是JavaScript中所有对象的父对象
 
 ### 2.JavaScript的引用类型  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -45,7 +45,7 @@ Object是JavaScript中所有对象的父对象
 
 ### 4.检验JavaScript的数据类型的方法有哪些，以及使用它们的缺点  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -76,7 +76,7 @@ Object是JavaScript中所有对象的父对象
 
 ### 6.instanceof操作符  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -88,7 +88,7 @@ Object是JavaScript中所有对象的父对象
 
 ### 7.new操作符的作用  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -118,7 +118,7 @@ function newCreate(){
 
 ### 8.作用域和作用域链  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -141,7 +141,7 @@ function newCreate(){
 
 ### 9.闭包  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
