@@ -32,7 +32,7 @@ Object是JavaScript中所有对象的父对象
 
 ### 3.Javascript基本数据类型和引用类型的特点  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
@@ -60,7 +60,7 @@ Object是JavaScript中所有对象的父对象
 
 ### 5.JavaScript基本数据类型和非基本数据类型的区别  
 
-<details><summary><b>答案</b></summary>
+<details><summary><b></b></summary>
 <p>
 
 #### 答案:   
