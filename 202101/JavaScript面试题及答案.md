@@ -29,3 +29,31 @@ Object是JavaScript中所有对象的父对象
 </details>  
 
 ***
+
+### 3.Javascript基本数据类型和引用类型的特点  
+
+<details><summary><b>答案</b></summary>
+<p>
+
+#### 答案:   
+1.基本数据类型：值不可变；数据存放在栈区。  
+2.引用数据类型：值是可变的；同时保存在栈内存和堆内存。
+</p>
+</details>  
+
+***
+
+### 4.检验JavaScript的数据类型的方法有哪些，以及使用它们的缺点  
+
+<details><summary><b>答案</b></summary>
+<p>
+
+#### 答案:   
+* 1.typeof：不能判断null和区分Array/Date/RegExp  
+* 2.instanceof：无法检测null和undefined；未必准确；无法判断字面量方式创建的基本数据类型  
+* 3.constructor：无法检测null和undefined；未必准确
+* 4.Object.prototype.toString.call()：无  
+</p>
+</details>  
+
+***
