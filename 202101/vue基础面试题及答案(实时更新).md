@@ -71,3 +71,18 @@ mvc和mvvm其实区别并不大，都是一种设计思想。主要是mvc的cont
 </details> 
 
 ***
+
+### 3.vue的优点是什么
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+* 1.低耦合：视图`View`可以独立`Model`变化和修改，一个`ViewModel`可以绑定到不同的`View`上，当`View`变化的时候`Model`可以不变，当`Model`变化的时候`View`也可以不变。  
+* 2.可重用性：可以把一些视图逻辑放在一个`ViewModel`里面，让很多`View`重用这段视图逻辑。  
+* 3.独立开发：开发人员可以专注于业务逻辑和数据开发`ViewModel`,设计人员可以专注于页面设计，使用Expression Blend可以容易设计界面并生成xml代码。  
+* 4.可测试：界面素来是比较难于测试的，而现在测试可以针对ViewModel来写。  
+</p>
+</details> 
+
+***
