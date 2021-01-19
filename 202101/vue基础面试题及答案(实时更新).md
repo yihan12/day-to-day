@@ -104,3 +104,25 @@ mvc和mvvm其实区别并不大，都是一种设计思想。主要是mvc的cont
 </details> 
 
 ***
+
+### 5.vue路由的实现：Hash模式和History模式
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+* **Hash模式**：是一种把前路由的路径用井号#拼接在真实URL后面的模式。当#后面的路径发生变化时，浏览器不会重新发起请求，而是会触发`haschange`事件。  
+特点：hash虽然在URL中，但是不被包括在HTTP请求中；用来指导浏览器动作，对服务端的安全无用，hash不会重加载页面。  
+优点：浏览器的兼容性比较好，支持IE8。  
+缺点：路径在井号#后面，比较丑。  
+读取：`window.location.hash`。  
+
+* **History模式**：history采用HTML5的新特性；且提供两个方法：`pushState()`,`replaceState()`可以对浏览器历史记录栈进行修改，以及`popState`事件监听到状态变更。  
+监听popState事件，该事件能监听到：用户点击浏览器前进后退的动作；手动调用history的`back`,`forward`和`go`方法。不能监听到：history的`pushState()`、`replaceState()`。  
+优点：理解比较正规，没有井号。  
+缺点：兼容性不如hash，且需要服务器支持，否则一刷新就404了。  
+</p>
+</details> 
+
+***
+
