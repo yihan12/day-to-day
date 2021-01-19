@@ -146,3 +146,22 @@ router.push('index')
 
 ***
 
+### 6.v-if和v-show的区别
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+* `v-if`：用于条件性渲染一块内容，这块内容只会在指令表达式返回`true`的时候被渲染。
+* `v-show`：`v-show`的元素始终会被渲染保留在DOM中。`v-show`只是简单的切换元素css的display。  
+
+区别：  
+1.`v-show`是css显隐切换，v-if是完整的销毁和重新创建;  
+2.使用频繁切换的时候用`v-show`，运行较少改变时用`v-if`;  
+3.`v-if`是条件渲染，当false的时候不会渲染，页面也不会有html标签生成，`v-show`则是不管为true或者false，html元素都存在，只是css样式display的显隐;  
+4.当我们需要经常切换某个元素的显隐时，使用`v-show`更加节省性能，当只需要一次切换时，使用`v-if`更加合理。  
+</p>
+</details> 
+
+***
+
