@@ -126,3 +126,23 @@ mvc和mvvm其实区别并不大，都是一种设计思想。主要是mvc的cont
 
 ***
 
+### 6.vue路由跳转
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+声明式（标签跳转）  
+```javascript
+<router-link :to="index>
+```
+
+编程式（js跳转）  
+```javascript
+router.push('index')
+```
+</p>
+</details> 
+
+***
+
