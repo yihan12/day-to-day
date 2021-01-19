@@ -164,3 +164,25 @@ function newCreate(){
 * 由于函数闭包的变量都保存在内存中，会导致内存消耗大  
 </p>
 </details>  
+
+### 10.null和undefined的区别  
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+`undefined`:  
+* 声明一个变量,这个变量的值就自动被赋予了`undefined`;  
+
+```javascript
+var a;
+// undefined
+```  
+
+* 调用函数时，应该被提供的参数没有提供，该参数等于`undefined`;  
+
+* 对象没有赋值的属性，该属性为`undefined`;  
+
+* 函数没有返回值，默认返回`undefined`;  
+</p>
+</details>  
