@@ -134,7 +134,7 @@ mvc和mvvm其实区别并不大，都是一种设计思想。主要是mvc的cont
 #### 答案:   
 声明式（标签跳转）  
 ```javascript
-<router-link :to="index>
+<router-link :to="index></router-link>
 ```
 
 编程式（js跳转）  
