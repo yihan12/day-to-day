@@ -60,3 +60,14 @@ destroyed：Vue实例销毁后调用，调用后，Vue实例指示的所有东�
 
 ***
 
+### 2.  
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+  
+</p>
+</details> 
+
+***
