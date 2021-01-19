@@ -146,7 +146,7 @@ router.push('index')
 
 ***
 
-### 6.v-if和v-show的区别
+### 7.v-if和v-show的区别
 
 <details><summary><b></b></summary>
 <p>
@@ -165,7 +165,7 @@ router.push('index')
 
 ***
 
-### 7.computed和watch的区别
+### 8.computed和watch的区别
 
 <details><summary><b></b></summary>
 <p>
@@ -192,7 +192,7 @@ router.push('index')
 
 ***  
 
-### 8.keep-alive组件的作用
+### 9.keep-alive组件的作用
 
 <details><summary><b></b></summary>
 <p>
