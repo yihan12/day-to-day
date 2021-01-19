@@ -33,7 +33,11 @@
 如果有模板'template'，就会把template解析成一个render function。通过render函数去渲染创建Dom树`compile template into render function`；如果没有模板'template'，就编译el对象外层html作为模板`compile el's outerHtml as template`。  
 beforeMount再有了render函数的时候才会执行，此时$el和data都初始化了，但是在挂载前为虚拟的Dom节点。**说明：$el属性已经存在，是虚拟Dom，只是数据未挂载到模板中**  
 然后继续执行render函数，当执行完render函数之后，也就是el被新创建的vm.$el替换`Create vm.$el and replace 'el' with it`，并且挂载到实例上去之后就会调用mounted这个钩子。  
-在mounted挂载完成，dom树已经完成渲染到页面，可进行dom操作。但是它不会承诺所有的子组件也都一起被挂载，如果希望等到整个视图都渲染完毕，可以用vm.$nextTick()。**说明：挂载完毕，这时Dom节点被渲染到文档内，dom操作在此时能  
+在mounted挂载完成，dom树已经完成渲染到页面，可进行dom操作。但是它不会承诺所有的子组件也都一起被挂载，如果希望等到整个视图都渲染完毕，可以用vm.$nextTick()。**说明：挂载完毕，这时Dom节点被渲染到文档内，dom操作在此时能正常进行**   
+当数据有更新，就会调用beforeUpdate，然后虚拟dom重新渲染补丁，以最小dom开支来重新渲染dom`Virtual Dom re-render and patch`。**说明：beforeUpdate是指view层的数据变化前，不是data中数据改变前触发，因为Vue是数据驱动的。这里适合在更新之前访问现有Dom，比如手动移除已添加的事件监听器**  
+然后就是updated执行。由于数据更改导致的虚拟Dom重新渲染和打补丁，在这之后会调用该钩子。当该钩子被调用时，组件Dom已经更新，所以你现在可以执行依赖于DOM的操作。然而在大多数情况，应该避免在此期间更改状态。如果要更改相应状态，最好使用计算属性或watcher取而代之。  
+**注意：updated不会承诺所有的子组件也都会被重构。如果你希望整个视图都重绘完毕，可以用vm.$nectTick()替换掉uopdated**  
+**说明： view层的数据更新后，data中的数据通beforeUpdate，都是更新完以后的。**  
 
 
 </p>
