@@ -204,3 +204,16 @@ router.push('index')
 </details> 
 
 ***  
+
+### 10.Vue组件的data为什么必须是函数
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+> vue组件的data值不能为对象，因为对象时引用类型，组件可能会被多个实例引用；  
+> 如果data值是对象，将导致多个实例共享一个对象，其中一个组件改变data的属性值，其他实例也会受到影响。
+</p>
+</details> 
+
+***  
