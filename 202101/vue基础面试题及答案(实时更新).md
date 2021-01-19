@@ -60,13 +60,13 @@ destroyed：Vue实例销毁后调用，调用后，Vue实例指示的所有东�
 
 ***
 
-### 2.  
+### 2.MVVM和MVC的区别
 
 <details><summary><b></b></summary>
 <p>
 
 #### 答案:   
-  
+mvc和mvvm其实区别并不大，都是一种设计思想。主要是mvc的controller演变成mvvm的viewModel。mvvm主要解决了mvc中的大量的Dom操作是页面的渲染性能降低，加载速度变慢，影响用户体验。和当model频繁发生变化，开发者需要主动更新到view。
 </p>
 </details> 
 
