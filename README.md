@@ -109,3 +109,5 @@
 
 
 [Vue面试题之vue实现MVVM数据绑定](https://github.com/yihan12/day-to-day/blob/master/202101/Vue%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8Bvue%E5%AE%9E%E7%8E%B0MVVM%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A.md)
+
+[npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md)
