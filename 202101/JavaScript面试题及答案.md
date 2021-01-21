@@ -214,3 +214,13 @@ console.log(null === undefined); // false
 ```
 </p>
 </details>  
+
+### 11.原型和原型链  
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+[原型和原型链](https://github.com/yihan12/day-to-day/blob/master/202012/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3.md)  
+</p>
+</details> 
