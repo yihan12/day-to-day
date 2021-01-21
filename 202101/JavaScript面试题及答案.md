@@ -171,7 +171,7 @@ function newCreate(){
 <p>
 
 #### 答案:   
-`undefined`:  
+`undefined`: 表示缺少值，即此处应该有值，但没有定义。   
 * 声明一个变量,这个变量的值就自动被赋予了`undefined`;  
 
 ```javascript
@@ -184,5 +184,33 @@ var a;
 * 对象没有赋值的属性，该属性为`undefined`;  
 
 * 函数没有返回值，默认返回`undefined`;  
+
+`null`：表示没有对象，即此处不应该有值。  
+* 作为函数的参数，表示该函数的参数不是对象;  
+* 作为对象原型链的终点。  
+
+其他方面的区别： 
+（1）数据类型的区别  
+
+```javascript
+console.log(typeof undefined); // undefined
+console.log(typeof null); // Object
+```
+
+**注意：这是JS设计的一个失误**  
+
+（2）转为数值的区别  
+
+```javascript
+let num1 = 5 + null; // 5
+let num2 = 5 + undefined; // NaN
+```
+
+（3)`null !== undefined` 
+
+```javascript
+console.log(null == undefined); // true
+console.log(null === undefined); // false
+```
 </p>
 </details>  
