@@ -229,6 +229,8 @@ console.log(null === undefined); // false
 </p>
 </details> 
 
+***
+
 ### 12.var，let和const有什么区别
 
 <details><summary><b></b></summary>
@@ -239,4 +241,6 @@ console.log(null === undefined); // false
 `let`的用法类似于`var`，但是`let`只在所在的代码块内有效
 </p>
 </details> 
+
+***
 
