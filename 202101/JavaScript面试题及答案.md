@@ -165,6 +165,8 @@ function newCreate(){
 </p>
 </details>  
 
+***
+
 ### 10.null和undefined的区别  
 
 <details><summary><b></b></summary>
@@ -214,6 +216,8 @@ console.log(null === undefined); // false
 ```
 </p>
 </details>  
+
+***
 
 ### 11.原型和原型链  
 
