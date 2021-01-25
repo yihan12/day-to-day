@@ -217,3 +217,20 @@ router.push('index')
 </details> 
 
 ***  
+
+
+### 11.Vue.nextTick和vm.$nextTick的作用
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+**官方**：  
+> 在下次DOM更新循环结束之后执行延迟回调。在修改数据之后立即使用这个方法，获取更新后的DOM。
+
+Vue在更新DOM时时异步的，当数据发生变化时，Vue将开启一个一步更新的队列，视图需要等队列的所有数据变化完成之后，再统一进行更新。
+
+</p>
+</details> 
+
+***  
