@@ -273,4 +273,16 @@ Vue在更新DOM时时异步的，当数据发生变化时，Vue将开启一个�
 </p>
 </details> 
 
+***
+
+### 13.vuex总结
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+vuex是一种状态管理机制，将全局组件的共享状态抽取出来为一个`store`,以一个单例的模式存在，应用任何一个组件中都可以使用，vuex更改`state`的唯一途径是通过`mutation`,`mutation`需要`commit`触发，`action`实际触发是`mutation`,其中`mutation`处理同步任务，`action`处理异步任务。
+</p>
+</details> 
+
 ***  
+
