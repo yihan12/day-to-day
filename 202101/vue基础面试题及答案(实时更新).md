@@ -240,6 +240,7 @@ Vue在更新DOM时时异步的，当数据发生变化时，Vue将开启一个�
 </details> 
 
 ***  
+
 ### 12.Vue指令有哪些，作用
 
 <details><summary><b></b></summary>
@@ -257,6 +258,18 @@ Vue在更新DOM时时异步的，当数据发生变化时，Vue将开启一个�
   `v-on:keydown`、  
   `v-on:mouseover`。  
 * `v-model`：双向数据绑定指令。给value赋值。  
+</p>
+</details> 
+
+***  
+
+### 13.vue和react的区别
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+
 </p>
 </details> 
 
