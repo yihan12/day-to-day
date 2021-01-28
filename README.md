@@ -111,3 +111,5 @@
 [Vue面试题之vue实现MVVM数据绑定](https://github.com/yihan12/day-to-day/blob/master/202101/Vue%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8Bvue%E5%AE%9E%E7%8E%B0MVVM%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A.md)
 
 [npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md)
+
+[Vue+element tree使用，当弹窗关闭时，this.$refs.tree.setCheckedKeys([])不能清空选中](https://github.com/yihan12/day-to-day/blob/master/202101/Vue+element%20tree%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%BD%93%E5%BC%B9%E7%AA%97%E5%85%B3%E9%97%AD%E6%97%B6%EF%BC%8Cthis.$refs.tree.setCheckedKeys(%5B%5D)%E4%B8%8D%E8%83%BD%E6%B8%85%E7%A9%BA%E9%80%89%E4%B8%AD.md)
