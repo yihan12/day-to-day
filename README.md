@@ -113,3 +113,5 @@
 [npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md)
 
 [Vue+element tree使用，当弹窗关闭时，this.$refs.tree.setCheckedKeys([])不能清空选中](https://github.com/yihan12/day-to-day/blob/master/202101/Vue+element%20tree%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%BD%93%E5%BC%B9%E7%AA%97%E5%85%B3%E9%97%AD%E6%97%B6%EF%BC%8Cthis.$refs.tree.setCheckedKeys(%5B%5D)%E4%B8%8D%E8%83%BD%E6%B8%85%E7%A9%BA%E9%80%89%E4%B8%AD.md)
+
+[JavaScript面试题及答案](https://github.com/yihan12/day-to-day/blob/master/202101/JavaScript%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.md)
