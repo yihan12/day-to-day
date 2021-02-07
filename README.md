@@ -122,3 +122,7 @@
 ### 202102
 
 [vscode启动项目EsLint报错(.eslintrc.js文件)](https://github.com/yihan12/day-to-day/blob/master/202102/vscode%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AEEsLint%E6%8A%A5%E9%94%99(.eslintrc.js%E6%96%87%E4%BB%B6).md)
+
+
+[npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md)
+
