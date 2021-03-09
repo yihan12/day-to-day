@@ -2,6 +2,14 @@
 
 > 前端常见是通过input按钮上传读取文件信息，此时知道本地文件路径需要直接js读取本地文件内的信息
 
+### 注意 
+
+本地测试，需要解决本地浏览器跨域问题，如： 
+
+可查看此链接解决：
+[解决本地浏览器运行项目是的跨域问题](https://blog.csdn.net/weixin_38545763/article/details/103800676)
+
+
 ### 解决 
 
 利用XMLHttpRequest获取到文件的信息。
@@ -18,16 +26,16 @@
  * XMLHttpRequest.response 服务器端响应的内容
  */
 function readTextFile(filePath, callback) {
-  const xhrFile = new XMLHttpRequest();
-  xhrFile.open("GET", filePath, true);
-  xhrFile.onload  = function() {
-      const allText = xhrFile.response;
-      callback(allText)
-  }
-  rawFile.send();
+    const xhrFile = new XMLHttpRequest();
+    xhrFile.open("GET", filePath, true);
+    xhrFile.onload  = function() {
+        const allText = xhrFile.response;
+        callback(allText)
+    }
+    xhrFile.send();
 }
-const filePath = "D://123/123.txt"
+const filePath = `E:/学习/JavaScript/txt.txt`
 readTextFile(filePath, (textDetail) => {
-  console.log(textDetail)
+    console.log(textDetail)
 })
 ```
