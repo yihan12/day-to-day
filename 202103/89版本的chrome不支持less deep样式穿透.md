@@ -8,11 +8,11 @@
 
 ```css
 .main{
-  /deep/.el-dialog__headerbtn{
+  .el-dialog__headerbtn{
       top:-5px!important;
       right:0px!important;
   }
-  .el-dialog__headerbtn{
+  /deep/.el-dialog__headerbtn{
       top:-5px!important;
       right:0px!important;
   }
@@ -20,3 +20,4 @@
 ```
 
 **注意：`/deep/`只适用less，sass用`::v-deep`**
+**注意：`/deep/`的最好放在没`/deep/`的后面**  
