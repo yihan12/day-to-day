@@ -1,3 +1,4 @@
+ES6五种遍历对象属性的方式
 ```javascript
 function allObj(){
   this.name = '张三'; // 自有属性
