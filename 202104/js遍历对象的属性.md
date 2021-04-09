@@ -26,9 +26,6 @@ Object.assign(obj, {
   c: '3',
   [Symbol('c')]: 'c',
 })
-// let obj2 = Object.assign(obj1,
-//   Object.defineProperty({}, )
-// )
 Object.assign(obj,
   Object.defineProperty({}, 'visible',{
     enumerable: true,
@@ -62,4 +59,55 @@ console.log(Object.getOwnPropertySymbols(obj)); // [Symbol(c)]
 
 // Reflect.ownKeys()返回一个数组，包含对象自身的所有属性，不管属性名是Symbol还是字符串，也不管是否可枚举
 console.log(Reflect.ownKeys(obj)); // ["name", "age", "invisible", "a", "b", "c", "visible", Symbol(c)]
+```
+
+解决`for..in`遍历对象时,原型链上的所有属性都将被访问  
+
+```javascript
+function allObj(){
+  this.name = '张三'; // 自有属性
+  this.age = '12'; // 自有属性
+  this.invisible = {
+    enumerable: false,
+    value: 'hello'
+  },
+  this.invisible = {
+    enumerable: false,
+    value: 'hello'
+  }
+}
+allObj.prototype.disEnum = {
+  enumerable: false,
+  value: 'disEnum'
+}
+allObj.prototype.Enum = {
+  enumerable: true,
+  value: 'Enum'
+}
+let obj = new allObj
+Object.assign(obj, {
+  a: '1',
+  b: '2',
+  c: '3',
+  [Symbol('c')]: 'c',
+})
+Object.assign(obj,
+  Object.defineProperty({}, 'visible',{
+    enumerable: true,
+    value: 'word'
+  })
+)
+console.log(obj);
+for(let key in obj){
+  if(obj.hasOwnProperty(key)===true){
+    console.log(key);
+    // name
+    // age
+    // invisible
+    // a
+    // b
+    // c
+    // visible
+  }
+}
 ```
