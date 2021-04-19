@@ -453,3 +453,19 @@ HTTP:是客户端和服务端之间数据传输的格式规范，表示超文本
 </details>  
 
 ***
+
+### 22.`GET`和`POST`的区别
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+* `GET`一般用于获取/查询资源，应该时安全幂等（对于同一URL的多个请求应该返回同样的结果）的；而`POST`一般用于更新资源信息，会修改服务器上的资源信息。  
+* `GET`请求的数据会附在URI之后（就是把数据放在HTTP协议头中）；`POST`把提交的数据放在HTTP的requset body中。  
+* `GET`方式提交的数据最多时1024字节，这个限制取决于操作系统的支持；理论上讲`POST`是没有大小限制的。  
+* 在ASP中，服务端获取`GET`请求参数用Requset.QueryString;获取`POST`的请求参数用Requset.Form。  
+* `POST`比`GET`安全性更高：`GET`提交数据，用户名和密码将明文出现在URL上；登录页面有可能被浏览器缓存；其他人可以查看浏览器历史记录；还可能造成Cross-site request forgery攻击。
+
+</p>
+</details>  
+
+***  
