@@ -349,7 +349,19 @@ HTTP通常承载于TCP之上，在HTTP和TCP之间添加了一个安全协议层
 #### 答案:   
 * 100 Continue表示继续，一般在发送post请求时，已发送了HTTP header之后，服务端将会缓存此信息，表示确认，之后发送具体参数信息。  
 * 200 OK表示正常返回信息。  
-* 201 Created
+* 201 Created表示请求成功并且服务器创建了新资源。  
+* 202 Accepted表示服务器已接受请求，但尚未处理。  
+* 301 Moved Permanently表示请求的网页已永久移动到新位置。  
+* 302 Found表示临时重定向。  
+* 303 See Other表示临时重定向，且总是使用GET请求新的URI。  
+* 304 Not Modified表示自从上次请求后，请求网页未修改。  
+* 400 Bad Request表示服务器无法理解请求格式，客户端不应当尝试再次使用相同的内容发起请求。  
+* 401 Unauthorized表示请求未授权。  
+* 403 Forbidden表示禁止访问。  
+* 404 Not Found表示找不到如何与URI匹配的资源。  
+* 500 Internet Server error表示最常见的服务端的错误。  
+* 503 Service Unavailable表示服务端暂时无法处理请求（可能是过载或维护）。  
+
 </p>
 </details>  
 
