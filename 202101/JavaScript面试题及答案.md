@@ -298,3 +298,59 @@ Function.call(obj, varl, var2， var3)
 * `webStorage(localStorage、sessionStorage)`在保存复杂数据类型时，较为依赖`JSON.stringify()`在移动端性能问题比较明显。 
 </p>
 </details> 
+
+***
+
+### 15.HTTP、HTTPS有什么联系，端口号是多少？
+
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+HTTP通常承载于TCP之上，在HTTP和TCP之间添加了一个安全协议层（SSL或TLS），这个时候，就变成了我们常说的HTTPS。HTTP默认端口号80，HTTPS默认端口号443。  
+</p>
+</details>
+
+***
+
+### 16.HTTP、HTTPS有什么联系，端口号是多少？为什么HTTPS更安全?
+
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+HTTP通常承载于TCP之上，在HTTP和TCP之间添加了一个安全协议层（SSL或TSL），这个时候，就变成了我们常说的HTTPS。HTTP默认端口号80，HTTPS默认端口号443。  
+在网络请求中，需要很多服务器，路由器的转发。其中的节点都可能篡改信息，而如果使用HTTPS，密钥在终点站才有。HTTPS之所以安全，是因为它利用SSL/TLS协议传输。它包含证书、卸载、流量转发、负载均衡、页面适配、浏览器适配、refer传递等技术、保障了传输过程中的安全性。
+</p>
+</details>  
+
+***
+
+### 17.HTTP/2
+
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+> 引入服务器端推送（server push）的概念,它允许服务器端在客户端需要数据之前主动将数据发送到客户端缓存中，从而提高性能。  
+> 提供更多的加密支持。  
+> 使用多路线路，允许多个消息在一个连接上同时交差。  
+> 增加了头压缩（header compression），因此请求非常小，请求和响应的header都只会占用很小的带宽。
+</p>
+</details>  
+
+***
+
+### 18.HTTP常见状态码
+
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+* 100 Continue表示继续，一般在发送post请求时，已发送了HTTP header之后，服务端将会缓存此信息，表示确认，之后发送具体参数信息。  
+* 200 OK表示正常返回信息。  
+* 201 Created
+</p>
+</details>  
+
+***
