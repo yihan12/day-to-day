@@ -93,7 +93,7 @@ Object是JavaScript中所有对象的父对象
 
 #### 答案:   
 * 新生了一个对象  
-* 链接到原型  
+* 链接到原型(该对象继承该函数的原型，更改了原型链的指向)   
 * 绑定this  
 * 返回对象  
 
@@ -252,4 +252,30 @@ console.log(null === undefined); // false
 </details> 
 
 ***
+
+### 13.`call()`、`apply()`、`bind()`的区别和作用
+
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+> 作用：(改变this的指向)都是在函数执行的时候，改变函数的运行环境，也就是改变函数的执行上下文；第一个参数都是改变运行环境的变量。
+
+区别：（接受参数的方式不同）  
+`call()`从第二个函数开始，第一个参数会依次传递给调用函数(参数列表);改变指向后原函数会立即执行，且此方法只是临时改变this指向一次。    
+```javascript
+Function.call(obj, varl, var2， var3)
+```  
+`apply()`的第二个参数是数组，数组的每一个成员会依次传递给调用函数（参数数组）;改变指向后原函数会立即执行，且此方法只是临时改变this指向一次。    
+```javascript
+Function.apply(obj, [varl, var2， var3])
+```
+`bind()`从第二个函数开始，第一个参数会依次传递给调用函数(参数列表);改变指向后原函数不会立即执行，会返回一个永久改变this指向的函数。  
+```javascript
+Function.call(obj, varl, var2， var3)
+```
+
+</p>
+</details> 
+
 
