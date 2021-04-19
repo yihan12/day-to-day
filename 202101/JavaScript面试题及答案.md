@@ -278,4 +278,15 @@ Function.call(obj, varl, var2， var3)
 </p>
 </details> 
 
+***
 
+### 14.`cookie`、`localStorage`、`sessionStorage`的异同点
+
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+| 分类 | 生命周期 | 存储容量 | 储存位置 |  
+|:---:|:---:|:---:|:---:|
+</p>
+</details> 
