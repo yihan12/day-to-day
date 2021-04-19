@@ -475,9 +475,9 @@ HTTP:是客户端和服务端之间数据传输的格式规范，表示超文本
 <p> 
 
 #### 答案:   
--[x] [网站性能优化实战](https://juejin.cn/post/6844903613790175240)  
--[x] [网站性能优化实战(二)](https://imweb.io/topic/5b4d417eee0c3b0779df96d9)  
--[x] [网站性能优化实战篇](https://segmentfault.com/a/1190000021098540)  
+- [x] [网站性能优化实战](https://juejin.cn/post/6844903613790175240)  
+- [x] [网站性能优化实战(二)](https://imweb.io/topic/5b4d417eee0c3b0779df96d9)  
+- [x] [网站性能优化实战篇](https://segmentfault.com/a/1190000021098540)  
 
 </p>
 </details>  
