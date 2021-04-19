@@ -286,3 +286,16 @@ vuex是一种状态管理机制，将全局组件的共享状态抽取出来为�
 
 ***  
 
+### 14.SPA单页面理解，优缺点？
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+> SPA(single-page application)仅在Web页面初始化时加载响应的HTML、JavaScript和CSS。一旦页面加载完成，SPA不会因为用户的操作而进行页面的重新加载或跳转；取而代之的是利用路由机制实现HTML内容的变换，UI与用户的交互，避免页面重新加载。  
+
+
+</p>
+</details> 
+
+***  
+
