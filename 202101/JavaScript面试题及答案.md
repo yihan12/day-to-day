@@ -401,12 +401,54 @@ HTTP:是客户端和服务端之间数据传输的格式规范，表示超文本
 </details>  
 
 ***  
+
 ### 21.HTTP请求方式  
 <details><summary><b></b></summary>
 <p> 
 
 #### 答案:   
->
+* GET:请求访问已经被URI（统一资源标识符）识别的资源，可以通过URL，给服务器传递参数数据。  
+* POST：传输信息给服务器，主要功能与GET方法类似，但传递的数据量通常不受限。   
+* PUT:传输文件，报文主体包含文件内容，保存到对应URI的位置。   
+* HEAD:获得报文首部，与get方法类似，只是不返回报文主体，一般用于验证URI是否有效。   
+* DELETE：删除文件，与PUT方法相反，删除对应URL位置的文件。   
+* OPTIONS:查询相应URI支持的HTTP方法。  
+
+</p>
+</details>  
+
+***  
+
+### 22.HTTP首部字段包括哪些类型  
+<details><summary><b></b></summary>
+<p> 
+
+#### 答案:   
+* 通用首部字段(请求报文和响应报文都会使用的首部字段)。  
+> `Date`:创建报文的时间。  
+> `Connection`:连接的管理。  
+> `Cache-Control`:缓存机制。  
+> `Transfer-Encoding`:报文主体的传输编码方式。  
+
+* 请求首部字段（请求报文会使用的首部字段）。  
+> `Host`: 请求资源所在的服务器。  
+> `Accept`: 可处理的媒体类型。  
+> `Accept-Charset`: 可接受的字符集。  
+> `Accept-Encoding`: 可接受的内容编码。  
+> `Accept-Language`: 可接受的自然语言。  
+
+* 响应首部字段（响应报文会使用的字段）。  
+> `Accept-Ranges`: 可接受的字节范围。  
+> `Location`: 令客户端重新定向到的URL。  
+
+* 实体首部字段（请求报文和响应报文的实体部分使用的首部字段）。  
+> `Allow`: 资源可支持的HTTP方法。  
+> `Content-Type`: 实体主体的类型。  
+> `Content-Encoding`: 实体主体使用的编码方式。  
+> `Content-Language`: 实体主体的自然语言。  
+> `Content-Length`: 实体主体的字节数。 
+> `Content-Range`: 实体主体的位置范围，一般用于发出部分请求时使用。  
+
 </p>
 </details>  
 
