@@ -365,3 +365,14 @@ vuex是一种状态管理机制，将全局组件的共享状态抽取出来为�
 </details> 
 
 ***  
+
+### 16.vue首屏优化
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+
+</p>
+</details> 
+
+***  
