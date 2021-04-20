@@ -325,3 +325,43 @@ vuex是一种状态管理机制，将全局组件的共享状态抽取出来为�
 </details> 
 
 ***  
+
+### 15.vue性能优化
+<details><summary><b></b></summary>
+<p>
+
+#### 答案:   
+1） 编码阶段：  
+* 尽量减少data中的数据，data中的数据都会增加getter和setter，会收集对应的watcher；  
+* 如果需要使用v-for给每项元素绑定事件时使用事件代理；  
+* SPA页面采用keep-alive缓存组件；  
+* 在更多情况下使用v-if替代v-show；  
+* key保证唯一；  
+* 使用路由懒加载、异步组件；  
+* 防抖节流；  
+* 第三方模块按需导入；  
+* 长列表滚动到可视区动态加载；  
+* 图片懒加载、不在HTML里缩放图像、使用雪碧图（CSS sprite）、使用字体图标（iconfont）、使用WebP；
+* 降低重绘重排的频率和成本；  
+* CSS读写分离，不用js操作元素样式；  
+
+2) 用户体验：  
+* 骨架屏；  
+* PWA；  
+* 使用缓存（客户端缓存，服务端缓存，服务端开启gzip压缩）；  
+
+3）SEO优化：  
+* 预渲染；  
+* 服务端渲染SSR；  
+
+4）打包优化：  
+* 压缩代码（注意：不要对图片文件进行Gzip压缩）；
+* Tree Shaking/Scope Hoisting；  
+* 使用cdn加载第三方模块；  
+* 多线程打包happypack；  
+* splitChunks抽离公共组件；  
+* sourceaMap优化
+</p>
+</details> 
+
+***  
