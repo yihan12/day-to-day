@@ -5,7 +5,7 @@
 也有日常的笔记记录，
 记录知识盲区，加深印象；  
 如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！  
-如果GitHub不方便看，可以进入博客：CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123]
+如果GitHub不方便看，可以进入博客：CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)
 
 ### 202009
 
