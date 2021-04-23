@@ -45,7 +45,7 @@
 
 ### Vue  
 
-- [x] [vue基础面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88(%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0).md) --实时更新
+- [x] [vue基础面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0).md) --实时更新
 - [x] [Vue EventBus传值的bug(EventBus踩坑)](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20%20EventBus%E4%BC%A0%E5%80%BC%E7%9A%84bug(EventBus%E8%B8%A9%E5%9D%91).md) --2019-09-18  
 - [x] [Vue EventBus传值踩坑之Vuex完美解决](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20EventBus%E4%BC%A0%E5%80%BC%E8%B8%A9%E5%9D%91%E4%B9%8BVuex%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3.md) --2019-09-19  
 - [x] [bug:Vuex - Computed property “name” was assigned to but it has no setter](https://github.com/yihan12/day-to-day/blob/master/202009/bug:Vuex%20-%20Computed%20property%20%E2%80%9Cname%E2%80%9D%20was%20assigned%20to%20but%20it%20has%20no%20setter.md) --2019-09-20  
