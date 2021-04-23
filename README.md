@@ -11,6 +11,7 @@
 
 > --2021-04-01~2021-04-30
 
+- [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-04-12  
 - [x] [ES6五种遍历对象属性的方式](https://github.com/yihan12/day-to-day/blob/master/202104/ES6%E4%BA%94%E7%A7%8D%E9%81%8D%E5%8E%86%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7%E7%9A%84%E6%96%B9%E5%BC%8F.md) --2021-04-03   
 - [x] [自适应好用的一个css](https://github.com/yihan12/day-to-day/blob/master/202104/%E8%87%AA%E9%80%82%E5%BA%94%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%80%E4%B8%AAcss.md) --2021-04-05  
 - [x] [原生js时间戳获取和转换](https://github.com/yihan12/day-to-day/blob/master/202104/%E5%8E%9F%E7%94%9Fjs%E6%97%B6%E9%97%B4%E6%88%B3%E8%8E%B7%E5%8F%96%E5%92%8C%E8%BD%AC%E6%8D%A2.md) --2021-04-11    
@@ -95,7 +96,7 @@
  
 ### NPM  
 - [x] [npm i -S -D -g的区别](https://github.com/yihan12/day-to-day/blob/master/202009/npm%20i%20-S%20-D%20-g%E7%9A%84%E5%8C%BA%E5%88%AB.md) --2019-09-25  
-- [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-03-12  
+- [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-04-12  
 - [x] [npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md) --2020-11-23  
 
 ### Git   
