@@ -23,6 +23,7 @@
 
 ### JavaScript  
 
+- [x] [JavaScript面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/JavaScript%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89.md) --实时更新
 - [x] [原生js时间戳获取和转换](https://github.com/yihan12/day-to-day/blob/master/202104/%E5%8E%9F%E7%94%9Fjs%E6%97%B6%E9%97%B4%E6%88%B3%E8%8E%B7%E5%8F%96%E5%92%8C%E8%BD%AC%E6%8D%A2.md)  --2021-04-11   
 - [x] [js封装日期格式化函数](https://github.com/yihan12/day-to-day/blob/master/202104/js%E5%B0%81%E8%A3%85%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%87%BD%E6%95%B0.md) --2021-04-14   
 - [x] [逻辑运算为 true](https://github.com/yihan12/day-to-day/blob/master/202009/%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E4%B8%BAtrue.md)  --2019-09-21  
@@ -34,6 +35,13 @@
 - [x] [Js去除字符串中的中括号](https://github.com/yihan12/day-to-day/blob/master/202011/Js%E5%8E%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E4%B8%AD%E6%8B%AC%E5%8F%B7.md) --2010-10-12  
 - [x] [js判断文件名是否合法](https://github.com/yihan12/day-to-day/blob/master/202011/js%E5%88%A4%E6%96%AD%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%AF%E5%90%A6%E5%90%88%E6%B3%95.md) -2020-11-14  
 - [x] [前端利用XMLHttpRequest读取本地文本文件](https://github.com/yihan12/day-to-day/blob/master/202103/%E5%89%8D%E7%AB%AF%E5%88%A9%E7%94%A8XMLHttpRequest%E8%AF%BB%E5%8F%96%E6%9C%AC%E5%9C%B0%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6.md) --2010-12-23  
+- [x] [词法作用域和动态作用域](https://github.com/yihan12/day-to-day/blob/master/202101/%E8%AF%8D%E6%B3%95%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E5%8A%A8%E6%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F.md) --2021-01-08  
+- [x] [lodash防抖](https://github.com/yihan12/day-to-day/blob/master/202101/lodash%E9%98%B2%E6%8A%96.md) --2021-01-12  
+- [x] [reduce 一知半解(一):根据id合并两个数组](https://github.com/yihan12/day-to-day/blob/master/202012/reduce%20%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3(%E4%B8%80):%E6%A0%B9%E6%8D%AEid%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%20.md) --2020-12-17  
+- [x] [js格式化json字符串和json对象](https://github.com/yihan12/day-to-day/blob/master/202012/js%E6%A0%BC%E5%BC%8F%E5%8C%96json%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8Cjson%E5%AF%B9%E8%B1%A1.md)  --2020-12-16  
+- [x] [原型与原型链一知半解](https://github.com/yihan12/day-to-day/blob/master/202012/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3.md)  --2020-12-15  
+- [x] [element-ui的input设置小于15的正整数](https://github.com/yihan12/day-to-day/blob/master/202012/element-ui%E7%9A%84input%E8%AE%BE%E7%BD%AE%E5%B0%8F%E4%BA%8E15%E7%9A%84%E6%AD%A3%E6%95%B4%E6%95%B0.md) --2020-12-12  
+- [x] [普通下载 && Vue文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md) --2020-12-28    
 
 ### CSS  
 
@@ -44,6 +52,9 @@
 - [x] [Css3无缝滚动防抖](https://github.com/yihan12/day-to-day/blob/master/202009/Css3%E6%97%A0%E7%BC%9D%E6%BB%9A%E5%8A%A8%E9%98%B2%E6%8A%96.md) --2019-04-08  
 - [x] [css隐藏滚动条](https://github.com/yihan12/day-to-day/blob/master/202010/css%E9%9A%90%E8%97%8F%E6%BB%9A%E5%8A%A8%E6%9D%A1.md)  --2019-04-10  
 - [x] [日常页码样式问题](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%97%A5%E5%B8%B8%E9%A1%B5%E7%A0%81%E6%A0%B7%E5%BC%8F%E9%97%AE%E9%A2%98.md) --2020-11-03  
+- [x] [三大样式穿透](https://github.com/yihan12/day-to-day/blob/master/202103/%E4%B8%89%E5%A4%A7%E6%A0%B7%E5%BC%8F%E7%A9%BF%E9%80%8F.md) --2020-11-15  
+- [x] [textarea去除右下角默认样式](https://github.com/yihan12/day-to-day/blob/master/202012/textarea%E5%8E%BB%E9%99%A4%E5%8F%B3%E4%B8%8B%E8%A7%92%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F.md)  --2020-12-26  
+- [x] [css禁止点击事件](https://github.com/yihan12/day-to-day/blob/master/202011/css%E7%A6%81%E6%AD%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6.md)  --2020-12-27  
 
 ### 浏览器  
 
@@ -51,6 +62,7 @@
 - [x] [移动端弹窗滚动穿透问题](https://github.com/yihan12/day-to-day/blob/master/202009/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%B9%E7%AA%97%E6%BB%9A%E5%8A%A8%E7%A9%BF%E9%80%8F%E9%97%AE%E9%A2%98.md) --2019-11-12  
 - [x] [出网速率问题](https://github.com/yihan12/day-to-day/edit/master/202009/%E5%87%BA%E7%BD%91%E9%80%9F%E7%8E%87%E9%97%AE%E9%A2%98.md) --2019-09-17   
 - [x] [本地缓存之localstrage之用法](https://github.com/yihan12/day-to-day/blob/master/202009/%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98%E4%B9%8Blocalstrage%E4%B9%8B%E7%94%A8%E6%B3%95.md) --2019-09-21  
+- [x] [89版本的chrome不支持less deep样式穿透](https://github.com/yihan12/day-to-day/blob/master/202103/89%E7%89%88%E6%9C%AC%E7%9A%84chrome%E4%B8%8D%E6%94%AF%E6%8C%81less%20deep%E6%A0%B7%E5%BC%8F%E7%A9%BF%E9%80%8F.md) --2020-11-11  
 
 ### Webpack  
 
@@ -70,6 +82,7 @@
 
 ### Vue  
 
+- [x] [vue基础面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88(%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0).md) --实时更新
 - [x] [Vue EventBus传值的bug(EventBus踩坑)](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20%20EventBus%E4%BC%A0%E5%80%BC%E7%9A%84bug(EventBus%E8%B8%A9%E5%9D%91).md) --2019-09-18  
 - [x] [Vue EventBus传值踩坑之Vuex完美解决](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20EventBus%E4%BC%A0%E5%80%BC%E8%B8%A9%E5%9D%91%E4%B9%8BVuex%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3.md) --2019-09-19  
 - [x] [bug:Vuex - Computed property “name” was assigned to but it has no setter](https://github.com/yihan12/day-to-day/blob/master/202009/bug:Vuex%20-%20Computed%20property%20%E2%80%9Cname%E2%80%9D%20was%20assigned%20to%20but%20it%20has%20no%20setter.md) --2019-09-20  
@@ -77,63 +90,23 @@
 - [x] [vue+element 列表的后台数据更新了,但前端视图未更新](https://github.com/yihan12/day-to-day/blob/master/202010/vue%2Belement%20%E5%88%97%E8%A1%A8%E7%9A%84%E5%90%8E%E5%8F%B0%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0%E4%BA%86%2C%E4%BD%86%E5%89%8D%E7%AB%AF%E8%A7%86%E5%9B%BE%E6%9C%AA%E6%9B%B4%E6%96%B0.md) --2019-10-11  
 - [x] [Vue自定义组件Props中接收数组](https://github.com/yihan12/day-to-day/blob/master/202010/Vue%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6Props%E4%B8%AD%E6%8E%A5%E6%94%B6%E6%95%B0%E7%BB%84.md) --2019-10-12  
 - [x] [vue两data参数等于res.detail,更新一参数另一参数跟着改变](https://github.com/yihan12/day-to-day/blob/master/202010/vue%E4%B8%A4data%E5%8F%82%E6%95%B0%E7%AD%89%E4%BA%8Eres.detail%2C%E6%9B%B4%E6%96%B0%E4%B8%80%E5%8F%82%E6%95%B0%E5%8F%A6%E4%B8%80%E5%8F%82%E6%95%B0%E8%B7%9F%E7%9D%80%E6%94%B9%E5%8F%98.md) --2019-10-24  
+- [x] [Vue+element tree使用，当弹窗关闭时，this.$refs.tree.setCheckedKeys([])不能清空选中](https://github.com/yihan12/day-to-day/blob/master/202101/Vue+element%20tree%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%BD%93%E5%BC%B9%E7%AA%97%E5%85%B3%E9%97%AD%E6%97%B6%EF%BC%8Cthis.$refs.tree.setCheckedKeys(%5B%5D)%E4%B8%8D%E8%83%BD%E6%B8%85%E7%A9%BA%E9%80%89%E4%B8%AD.md) --2020-11-23  
+- [x] [Vue面试题之vue实现MVVM数据绑定](https://github.com/yihan12/day-to-day/blob/master/202101/Vue%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8Bvue%E5%AE%9E%E7%8E%B0MVVM%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A.md) -2020-11-19  
+- [x] [vue 父子组件传数组eslint报错(Type of the default value for 'arrNew' prop must be a function)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%20%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6%E4%BC%A0%E6%95%B0%E7%BB%84eslint%E6%8A%A5%E9%94%99(Type%20of%20the%20default%20value%20for%20'arrNew'%20prop%20must%20be%20a%20function).md) --2021-02-18  
+- [x] [element如果Button被Disable了，如何显示Tooltip](https://github.com/yihan12/day-to-day/blob/master/202101/element%E5%A6%82%E6%9E%9CButton%E8%A2%ABDisable%E4%BA%86%EF%BC%8C%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BATooltip.md) --2021-01-16  
  
 ### VScode  
 
 - [x] [vue项目Ctrl+s vscode代码自动格式化](https://github.com/yihan12/day-to-day/blob/master/202009/vue%E9%A1%B9%E7%9B%AECtrl%2Bs%20vscode%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96.md) --2019-09-11   
-- [x] [vscode使用chrome调试报错](https://github.com/yihan12/day-to-day/blob/master/202103/vscode%E4%BD%BF%E7%94%A8chrome%E8%B0%83%E8%AF%95%E6%8A%A5%E9%94%99.md) --2020-11-15
+- [x] [vscode使用chrome调试报错](https://github.com/yihan12/day-to-day/blob/master/202103/vscode%E4%BD%BF%E7%94%A8chrome%E8%B0%83%E8%AF%95%E6%8A%A5%E9%94%99.md) --2020-11-15  
+- [x] [vscode启动项目EsLint报错(.eslintrc.js文件)](https://github.com/yihan12/day-to-day/blob/master/202102/vscode%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AEEsLint%E6%8A%A5%E9%94%99(.eslintrc.js%E6%96%87%E4%BB%B6).md) --2021-02-22  
  
 ### NPM  
 
 - [x] [npm i -S -D -g的区别](https://github.com/yihan12/day-to-day/blob/master/202009/npm%20i%20-S%20-D%20-g%E7%9A%84%E5%8C%BA%E5%88%AB.md) --2019-09-25  
+- [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-03-12  
+- [x] [npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md) --2020-11-23  
 
 ### Git  
 
-- [x] [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md) --2019-11-29
-
-  
- 
-
-  
-
- 
-
-
-
- 
-- [x] [普通下载 && Vue文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md)  
-- [x] [css禁止点击事件](https://github.com/yihan12/day-to-day/blob/master/202011/css%E7%A6%81%E6%AD%A2%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6.md)  
-
-### 202012
-
-- [x] [textarea去除右下角默认样式](https://github.com/yihan12/day-to-day/blob/master/202012/textarea%E5%8E%BB%E9%99%A4%E5%8F%B3%E4%B8%8B%E8%A7%92%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F.md)  
-- [x] [reduce 一知半解(一):根据id合并两个数组](https://github.com/yihan12/day-to-day/blob/master/202012/reduce%20%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3(%E4%B8%80):%E6%A0%B9%E6%8D%AEid%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%20.md)  
-- [x] [js格式化json字符串和json对象](https://github.com/yihan12/day-to-day/blob/master/202012/js%E6%A0%BC%E5%BC%8F%E5%8C%96json%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8Cjson%E5%AF%B9%E8%B1%A1.md)  
-- [x] [原型与原型链一知半解](https://github.com/yihan12/day-to-day/blob/master/202012/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3.md)  
-- [x] [element-ui的input设置小于15的正整数](https://github.com/yihan12/day-to-day/blob/master/202012/element-ui%E7%9A%84input%E8%AE%BE%E7%BD%AE%E5%B0%8F%E4%BA%8E15%E7%9A%84%E6%AD%A3%E6%95%B4%E6%95%B0.md)
-
-### 202101
-
-- [x] [lodash防抖](https://github.com/yihan12/day-to-day/blob/master/202101/lodash%E9%98%B2%E6%8A%96.md)  
-- [x] [词法作用域和动态作用域](https://github.com/yihan12/day-to-day/blob/master/202101/%E8%AF%8D%E6%B3%95%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E5%8A%A8%E6%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F.md)  
-- [x] [element如果Button被Disable了，如何显示Tooltip](https://github.com/yihan12/day-to-day/blob/master/202101/element%E5%A6%82%E6%9E%9CButton%E8%A2%ABDisable%E4%BA%86%EF%BC%8C%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BATooltip.md)  
-- [x] [vue 父子组件传数组eslint报错(Type of the default value for 'arrNew' prop must be a function)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%20%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6%E4%BC%A0%E6%95%B0%E7%BB%84eslint%E6%8A%A5%E9%94%99(Type%20of%20the%20default%20value%20for%20'arrNew'%20prop%20must%20be%20a%20function).md)  
-- [x] [Vue面试题之vue实现MVVM数据绑定](https://github.com/yihan12/day-to-day/blob/master/202101/Vue%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8Bvue%E5%AE%9E%E7%8E%B0MVVM%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A.md)  
-- [x] [npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md)  
-- [x] [Vue+element tree使用，当弹窗关闭时，this.$refs.tree.setCheckedKeys([])不能清空选中](https://github.com/yihan12/day-to-day/blob/master/202101/Vue+element%20tree%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%BD%93%E5%BC%B9%E7%AA%97%E5%85%B3%E9%97%AD%E6%97%B6%EF%BC%8Cthis.$refs.tree.setCheckedKeys(%5B%5D)%E4%B8%8D%E8%83%BD%E6%B8%85%E7%A9%BA%E9%80%89%E4%B8%AD.md)  
-- [x] [JavaScript面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/JavaScript%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89.md)  
-- [x] [vue基础面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88(%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0).md)  
-
-### 202102
-
-- [x] [vscode启动项目EsLint报错(.eslintrc.js文件)](https://github.com/yihan12/day-to-day/blob/master/202102/vscode%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AEEsLint%E6%8A%A5%E9%94%99(.eslintrc.js%E6%96%87%E4%BB%B6).md)  
-- [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md)  
-
-### 202103
-
-
-
-- [x] [三大样式穿透](https://github.com/yihan12/day-to-day/blob/master/202103/%E4%B8%89%E5%A4%A7%E6%A0%B7%E5%BC%8F%E7%A9%BF%E9%80%8F.md)  
-- [x] [89版本的chrome不支持less deep样式穿透](https://github.com/yihan12/day-to-day/blob/master/202103/89%E7%89%88%E6%9C%AC%E7%9A%84chrome%E4%B8%8D%E6%94%AF%E6%8C%81less%20deep%E6%A0%B7%E5%BC%8F%E7%A9%BF%E9%80%8F.md)  
-
-
+- [x] [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md) --2019-11-29  
