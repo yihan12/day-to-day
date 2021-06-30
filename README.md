@@ -11,12 +11,7 @@
 
 > --2021-06-30~~至今
 
-- [x] [G2项目中引用问题](https://github.com/yihan12/day-to-day/blob/master/202106/G2%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98.md) --2021-06-30  
-- [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-04-12  
-- [x] [ES6五种遍历对象属性的方式](https://github.com/yihan12/day-to-day/blob/master/202104/ES6%E4%BA%94%E7%A7%8D%E9%81%8D%E5%8E%86%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7%E7%9A%84%E6%96%B9%E5%BC%8F.md) --2021-04-03   
-- [x] [自适应好用的一个css](https://github.com/yihan12/day-to-day/blob/master/202104/%E8%87%AA%E9%80%82%E5%BA%94%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%80%E4%B8%AAcss.md) --2021-04-05  
-- [x] [原生js时间戳获取和转换](https://github.com/yihan12/day-to-day/blob/master/202104/%E5%8E%9F%E7%94%9Fjs%E6%97%B6%E9%97%B4%E6%88%B3%E8%8E%B7%E5%8F%96%E5%92%8C%E8%BD%AC%E6%8D%A2.md) --2021-04-11    
-- [x] [js封装日期格式化函数](https://github.com/yihan12/day-to-day/blob/master/202104/js%E5%B0%81%E8%A3%85%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%87%BD%E6%95%B0.md) --2021-04-14  
+- [x] [G2项目中引用问题](https://github.com/yihan12/day-to-day/blob/master/202106/G2%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98.md) --2021-06-30   
 
 ### JavaScript   
 - [x] [JavaScript面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/JavaScript%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89.md) --实时更新
@@ -98,6 +93,7 @@
 - [x] [echarts 折线图(移动端)X轴显示不全](https://github.com/yihan12/day-to-day/blob/master/202009/echarts%20%E6%8A%98%E7%BA%BF%E5%9B%BE(%E7%A7%BB%E5%8A%A8%E7%AB%AF)X%E8%BD%B4%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A8.md) --2019-09-28   
 - [x] [echart 设置 Y轴标签在柱状图上垂直居中 失效
 ](https://github.com/yihan12/day-to-day/blob/master/202010/echart%20%E8%AE%BE%E7%BD%AE%20Y%E8%BD%B4%E6%A0%87%E7%AD%BE%E5%9C%A8%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%8A%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%20%E5%A4%B1%E6%95%88.md) --2019-10-22  
+- [x] [G2项目中引用问题](https://github.com/yihan12/day-to-day/blob/master/202106/G2%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98.md) --2021-06-30   
 
 ### 微信   
 - [x] [IOS微信分享问题（h5页面），签名报错invalid signature](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E5%BE%AE%E4%BF%A1%E5%88%86%E4%BA%AB%E9%97%AE%E9%A2%98%EF%BC%88h5%E9%A1%B5%E9%9D%A2%EF%BC%89%EF%BC%8C%E7%AD%BE%E5%90%8D%E6%8A%A5%E9%94%99invalid%20signature.md) --2019-09-25  
