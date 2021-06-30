@@ -9,8 +9,9 @@
 
 # 最近更新
 
-> --2021-04-01~2021-04-30
+> --2021-06-30~~至今
 
+- [x] [G2项目中引用问题](https://github.com/yihan12/day-to-day/blob/master/202106/G2%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98.md) --2021-06-30  
 - [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-04-12  
 - [x] [ES6五种遍历对象属性的方式](https://github.com/yihan12/day-to-day/blob/master/202104/ES6%E4%BA%94%E7%A7%8D%E9%81%8D%E5%8E%86%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7%E7%9A%84%E6%96%B9%E5%BC%8F.md) --2021-04-03   
 - [x] [自适应好用的一个css](https://github.com/yihan12/day-to-day/blob/master/202104/%E8%87%AA%E9%80%82%E5%BA%94%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%80%E4%B8%AAcss.md) --2021-04-05  
