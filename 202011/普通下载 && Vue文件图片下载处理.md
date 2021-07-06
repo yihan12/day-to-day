@@ -85,6 +85,38 @@ let funDownload = function (domImg, filename) {
 };
 ```
 
+### HTML Blob文件下载优化
+
+```javascript
+export const downloadFile = (blob, fileanme) => {
+  // 兼容IE和EDGE无法打开Blob URL链接方法
+  if (typeof window.navigator.msSaveBlob !== 'undefined') {
+    window.navigator.msSaveBlob(blob, fileanme)
+  } else {
+    let URL = window.URL || window.webkitURL;
+    // 使用获取到的blob对象创建的blobUrl
+    const blobUrl = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    if (typeof a.download === 'undefined') {
+      window.location = blobUrl
+    } else {
+      document.body.appendChild(a)
+      a.style.display = 'none'
+
+      a.href = blobUrl;
+      // 指定下载的文件名
+      a.download = fileanme;
+      a.click();
+      document.body.removeChild(a)
+      // 移除blob对象的blobUrl
+      URL.revokeObjectURL(blobUrl);
+    }
+  }
+}
+```
+
 ### 结束语
 
 在Chrome浏览器下，模拟点击创建的a元素即使不append到页面中，也是可以触发下载的，但是在Firefox浏览器中却不行，因此，上面的funDownload()方法有一个appendChild和removeChild的处理，就是为了兼容Firefox浏览器。
+
+[普通下载 && Vue文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md)
