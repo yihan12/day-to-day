@@ -11,6 +11,7 @@
 
 > --2021-06-30~~至今
 
+- [x] [](https://github.com/yihan12/day-to-day/blob/master/202107/Ant-design%E7%BB%84%E4%BB%B6%E6%8A%A5%E9%94%99%60value%60%20should%20be%20array%20when%20%60mode%60%20is%20%60multiple%60%20or%20%60tags%60.md) --2021-07-17
 - [x] [Ant Design 中Select组件报错 Invalid prop `value` of type `string` supplied to `Select`](https://github.com/yihan12/day-to-day/blob/master/202107/Ant%20Design%20%E4%B8%ADSelect%E7%BB%84%E4%BB%B6%E6%8A%A5%E9%94%99%20Invalid%20prop%20%60value%60%20of%20type%20%60string%60%20supplied%20to%20%60Select%60.md) --2021-07-17  
 - [x] [Cannot read property 'match' of undefined](https://github.com/yihan12/day-to-day/blob/master/202107/Cannot%20read%20property%20'match'%20of%20undefined.md) --2021-07-09  
 - [x] [G2项目中引用问题](https://github.com/yihan12/day-to-day/blob/master/202106/G2%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98.md) --2021-06-30   
