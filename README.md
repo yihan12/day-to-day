@@ -46,6 +46,7 @@
 
 ### Vue  
 
+- [x] [Cannot read property 'match' of undefined](https://github.com/yihan12/day-to-day/blob/master/202107/Cannot%20read%20property%20'match'%20of%20undefined.md) --2021-07-09  
 - [x] [vue基础面试题及答案(实时更新)](https://github.com/yihan12/day-to-day/blob/master/202101/vue%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0).md) --实时更新
 - [x] [Vue EventBus传值的bug(EventBus踩坑)](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20%20EventBus%E4%BC%A0%E5%80%BC%E7%9A%84bug(EventBus%E8%B8%A9%E5%9D%91).md) --2019-09-18  
 - [x] [Vue EventBus传值踩坑之Vuex完美解决](https://github.com/yihan12/day-to-day/blob/master/202009/Vue%20EventBus%E4%BC%A0%E5%80%BC%E8%B8%A9%E5%9D%91%E4%B9%8BVuex%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3.md) --2019-09-19  
@@ -116,6 +117,11 @@
 - [x] [npm i -S -D -g的区别](https://github.com/yihan12/day-to-day/blob/master/202009/npm%20i%20-S%20-D%20-g%E7%9A%84%E5%8C%BA%E5%88%AB.md) --2019-09-25  
 - [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-04-12  
 - [x] [npm ERR! A complete log of this run can be found in](https://github.com/yihan12/day-to-day/blob/master/202101/npm%20ERR!%20A%20complete%20log%20of%20this%20run%20can%20be%20found%20in.md) --2020-11-23  
+
+### Ant-design  
+- [x] [react-antd弹窗数据不更新](https://github.com/yihan12/day-to-day) --2021-07-20  
+- [x] [Ant-design组件报错`value` should be array when `mode` is `multiple` or `tags`](https://github.com/yihan12/day-to-day/blob/master/202107/Ant-design%E7%BB%84%E4%BB%B6%E6%8A%A5%E9%94%99%60value%60%20should%20be%20array%20when%20%60mode%60%20is%20%60multiple%60%20or%20%60tags%60.md) --2021-07-17
+- [x] [Ant Design 中Select组件报错 Invalid prop `value` of type `string` supplied to `Select`](https://github.com/yihan12/day-to-day/blob/master/202107/Ant%20Design%20%E4%B8%ADSelect%E7%BB%84%E4%BB%B6%E6%8A%A5%E9%94%99%20Invalid%20prop%20%60value%60%20of%20type%20%60string%60%20supplied%20to%20%60Select%60.md) --2021-07-17  
 
 ### Git   
 - [x] [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md) --2019-11-29  
