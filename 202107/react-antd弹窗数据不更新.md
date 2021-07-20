@@ -7,5 +7,5 @@
 modal组件增加
 
 ```javascript
-destroyOnClose={true}
+<Modal destroyOnClose={true}/>
 ```
