@@ -11,6 +11,7 @@
 
 > --2021-06-30~~至今
 
+- [x] [vue-infinite-scroll在弹窗内不会触发loadMore方法](https://github.com/yihan12/day-to-day/blob/master/202107/vue-infinite-scroll%E5%9C%A8%E5%BC%B9%E7%AA%97%E5%86%85%E4%B8%8D%E4%BC%9A%E8%A7%A6%E5%8F%91loadMore%E6%96%B9%E6%B3%95.md) --2021-07-27  
 - [x] [react-antd弹窗数据不更新](https://github.com/yihan12/day-to-day) --2021-07-20  
 - [x] [Ant-design组件报错`value` should be array when `mode` is `multiple` or `tags`](https://github.com/yihan12/day-to-day/blob/master/202107/Ant-design%E7%BB%84%E4%BB%B6%E6%8A%A5%E9%94%99%60value%60%20should%20be%20array%20when%20%60mode%60%20is%20%60multiple%60%20or%20%60tags%60.md) --2021-07-17
 - [x] [Ant Design 中Select组件报错 Invalid prop `value` of type `string` supplied to `Select`](https://github.com/yihan12/day-to-day/blob/master/202107/Ant%20Design%20%E4%B8%ADSelect%E7%BB%84%E4%BB%B6%E6%8A%A5%E9%94%99%20Invalid%20prop%20%60value%60%20of%20type%20%60string%60%20supplied%20to%20%60Select%60.md) --2021-07-17  
