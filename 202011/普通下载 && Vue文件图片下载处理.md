@@ -85,7 +85,9 @@ let funDownload = function (domImg, filename) {
 };
 ```
 
-### HTML Blob文件下载优化
+### HTML Blob文件下载优化  
+
+> 注意：在新版chrome中createObjectURL不可用。[MDN文档](https://developer.mozilla.org/zh-CN/docs/Web/API/URL/createObjectURL)
 
 ```javascript
 export const downloadFile = (blob, fileanme) => {
