@@ -10,4 +10,15 @@
 * `Number`  
 * `Symbol`
 
-### 基本
+### 原始数据类型（六种）  
+
+* `Null`  
+* `Undefined`  
+* `String`  
+* `Array`  
+* `Number`  
+* `Symbol`
+
+### 引用数据类型（一种）  
+
+* `Object`  
