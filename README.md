@@ -22,6 +22,8 @@
 # 笔记  
 ### javascript由浅入深系列  
 
+- [x] [JavaScript数据类型](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1.md/JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md) --2021-08-05
+
 
 # BUG  
 ### JavaScript   
