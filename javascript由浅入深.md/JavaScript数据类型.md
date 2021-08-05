@@ -1,16 +1,17 @@
 # JavaScript数据类型
 
-### JavaScript数据类型（七种）  
+### JavaScript基本数据类型（六种）  
 
 * `Null`  
 * `Undefined`  
-* `String`  
-* `Object`  
-* `Array`  
+* `String`   
 * `Number`  
-* `Symbol`
+* `Symbol`  
+* `Boolean`
 
-> 在es10中加入了第八种数据类型`BigInt`，现已被最新Chrome支持  
+> 注：`Symbol` 是 ES6 引入了一种新的原始数据类型，表示独一无二的值。
+
+> 注：在es10中加入了原始数据类型`BigInt`，现已被最新Chrome支持  
 
 
 [BigInt MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
