@@ -6,8 +6,8 @@
 * `Undefined`  
 * `String`   
 * `Number`  
+* `Boolean`  
 * `Symbol`  
-* `Boolean`
 
 > 注：`Symbol` 是 ES6 引入了一种新的原始数据类型，表示独一无二的值。
 
