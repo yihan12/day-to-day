@@ -26,5 +26,9 @@ console.log(jQuery.type(1n)) // bigint
 ### 引用数据类型/对象数据类型（一种）  
 
 * `Object`  
+* `Array`  
+* `Function`  
+* `Date`  
+* `RegExp`  
 
 > 除了`Array`、`Function`、`Date`、`RegExp`属于特殊的对象数据类型。
