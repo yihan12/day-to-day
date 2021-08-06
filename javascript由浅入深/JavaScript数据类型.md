@@ -27,4 +27,4 @@ console.log(jQuery.type(1n)) // bigint
 
 * `Object`  
 
-> 除了Array、Function属于特殊的对象数据类型。
+> 除了Array、Function、Date属于特殊的对象数据类型。
