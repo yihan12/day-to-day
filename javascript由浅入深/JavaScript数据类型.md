@@ -23,6 +23,8 @@ console.log(jQuery.type(1n)) // bigint
 
 [BigInt MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 
-### 引用数据类型（一种）  
+### 引用数据类型/对象数据类型（一种）  
 
 * `Object`  
+
+> 除了Array、Function属于特殊的对象数据类型。
