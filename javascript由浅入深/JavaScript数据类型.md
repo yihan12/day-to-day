@@ -124,3 +124,13 @@ console.log(Number(5 + undefined)) //NaN
 console.log(Number(null)) //0
 console.log(Number(5 + null)) //5
 ```
+
+> 4、现在的用法：  
+> `null`:表示"没有对象"，即此处不应该有值。  
+> （1）作为函数的参数，表示该函数的参数不是对象;  
+> （2）作为对象原型链的终点。  
+> `undefined`:表示"缺少值"，即此处应该有一个值，但是没有定义。  
+> （1）变量被声明了，但没有赋值时，就等于undefined;
+> （2) 调用函数时，应该提供的参数没有提供，该参数等于undefined;
+> （3）对象没有赋值的属性，该属性的值为undefined;
+> （4）函数没有返回值时，默认返回undefined。
