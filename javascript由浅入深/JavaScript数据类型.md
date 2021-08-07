@@ -64,3 +64,19 @@ console.log(num instanceof Object) // true
 console.log(Object.prototype.toString.call(num)) // [object Number]
 console.log(Object.prototype.toString(num)) // [object Object]
 ```
+
+> 1、引用类型和基本包装类型的区别就是对象的生存期;  
+> 2、自动创建的基本包装类型的对象，只存在于一行代码的执行瞬间，然后立即被销毁；  
+> 3、意味着我们不能在运行时为基本类型添加属性和方法。  
+
+```javascript
+const s1 = 'name.Lee'
+s1.name = 'lee'
+s1.age = function () {
+  return 100
+}
+console.log(s1.substring(5)) // =>Lee
+console.log(typeof s1) // string
+console.log(s1.name) // undefined
+console.lgo(s1.age()) // Uncaught TypeError: s1.age is not a function
+```
