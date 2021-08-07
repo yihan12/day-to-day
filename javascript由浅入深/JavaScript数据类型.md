@@ -99,5 +99,12 @@ console.log(s2.age()) // 100
 
 [undefined与null的区别---阮一峰](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)  
 
+笔记：  
+> 1、在`!`运算符处理后，自动转成`true`
 
+```javascript
+console.log(!null) // true
+console.log(!undefined) // true
+console.log(!undefined === !null) // true
+```
 
