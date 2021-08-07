@@ -114,3 +114,13 @@ console.log(!undefined === !null) // true
 console.log(null == undefined) // true
 console.log(null === undefined) // false
 ```
+
+> 3、最初设计：`null`是一个表示"无"的对象，转数值为`0`;`undefined`是一个表示"无"的原始值，转数值为`NaN`。
+
+```javascript
+console.log(Number(undefined)) //NaN
+console.log(Number(5 + undefined)) //NaN
+
+console.log(Number(null)) //0
+console.log(Number(5 + null)) //5
+```
