@@ -69,6 +69,7 @@ console.log(Object.prototype.toString(num)) // [object Object]
 > 2、自动创建的基本包装类型的对象，只存在于一行代码的执行瞬间，然后立即被销毁；  
 > 3、意味着我们不能在运行时为基本类型添加属性和方法。  
 
+基本类型的字面量写法，很明显不能为基本类型添加属性和方法
 ```javascript
 const s1 = 'name.Lee'
 s1.name = 'lee'
@@ -79,4 +80,17 @@ console.log(s1.substring(5)) // =>Lee
 console.log(typeof s1) // string
 console.log(s1.name) // undefined
 console.lgo(s1.age()) // Uncaught TypeError: s1.age is not a function
+```
+
+new运算符写法,既能添加方法属性，还能使用它的内置方法`substring`
+```javascript
+const s2 = new String('name.Lee')
+s2.name = 'lee'
+s2.age = function () {
+  return 100
+}
+console.log(s2.substring(5)) // =>Lee
+console.log(typeof s2) // object
+console.log(s2.name) // lee
+console.log(s2.age()) // 100
 ```
