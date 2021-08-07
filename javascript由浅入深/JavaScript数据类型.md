@@ -40,4 +40,27 @@ console.log(jQuery.type(1n)) // bigint
 * `Boolean`  
 
 ```javascript
+const Booln = new Boolean(true)
+console.log(Booln) // Boolean {true}
+console.log(Booln === true) // false
+console.log(typeof Booln) // object
+console.log(Booln instanceof Object) // true
+console.log(Object.prototype.toString.call(Booln)) // [object Boolean]
+console.log(Object.prototype.toString(Booln)) // [object Object]
+
+const str = new String('123')
+console.log(str) // String {"123"}
+console.log(str === '123') // false
+console.log(typeof str) // object
+console.log(str instanceof Object) // true
+console.log(Object.prototype.toString.call(str)) // [object String]
+console.log(Object.prototype.toString(str)) // [object Object]
+
+const num = new Number(123)
+console.log(num) // String {"123"}
+console.log(num === 123) // false
+console.log(typeof num) // object
+console.log(num instanceof Object) // true
+console.log(Object.prototype.toString.call(num)) // [object Number]
+console.log(Object.prototype.toString(num)) // [object Object]
 ```
