@@ -108,3 +108,9 @@ console.log(!undefined) // true
 console.log(!undefined === !null) // true
 ```
 
+> 2、相等，但是不全等  
+
+```javascript
+console.log(null == undefined) // true
+console.log(null === undefined) // false
+```
