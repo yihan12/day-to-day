@@ -94,3 +94,6 @@ console.log(typeof s2) // object
 console.log(s2.name) // lee
 console.log(s2.age()) // 100
 ```
+
+### 分不清的`null`和`undefined`  
+
