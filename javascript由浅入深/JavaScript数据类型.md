@@ -125,7 +125,14 @@ console.log(Number(null)) //0
 console.log(Number(5 + null)) //5
 ```
 
-> 4、现在的用法：  
+> 4、两者`typeof`区别：  
+
+```javascript
+console.log(typeof undefined) //undefined
+console.log(typeof null) //object
+```
+
+> 5、现在的用法：  
 > `null`:表示"没有对象"，即此处不应该有值。(表示被赋值过的对象，刻意把一个对象赋值为`null`，故意表示其为空，不应有值。)  
 > （1）作为函数的参数，表示该函数的参数不是对象;  
 > （2）作为对象原型链的终点。  
