@@ -32,3 +32,12 @@ console.log(jQuery.type(1n)) // bigint
 * `RegExp`  
 
 > 注：除了`Array`、`Function`、`Date`、`RegExp`属于特殊的对象数据类型。
+
+### 包装类型（三种）  
+
+* `Number`  
+* `String`  
+* `Boolean`  
+
+```javascript
+```
