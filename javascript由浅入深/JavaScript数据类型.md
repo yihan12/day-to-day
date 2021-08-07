@@ -95,5 +95,9 @@ console.log(s2.name) // lee
 console.log(s2.age()) // 100
 ```
 
-### 分不清的`null`和`undefined`  
+### `null`和`undefined`的区别  
+
+[undefined与null的区别---阮一峰](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)  
+
+
 
