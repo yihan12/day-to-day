@@ -31,4 +31,4 @@ console.log(jQuery.type(1n)) // bigint
 * `Date`  
 * `RegExp`  
 
-> 除了`Array`、`Function`、`Date`、`RegExp`属于特殊的对象数据类型。
+> 注：除了`Array`、`Function`、`Date`、`RegExp`属于特殊的对象数据类型。
