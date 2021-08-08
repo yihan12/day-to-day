@@ -20,11 +20,10 @@
 - [x] [React Hooks学习积累](https://github.com/yihan12/day-to-day/blob/master/202106/React%20Hooks%20%E5%AD%A6%E4%B9%A0%E7%A7%AF%E7%B4%AF.md) --2021-07-01  
 
 # 笔记  
-### javascript由浅入深系列  
+### javascript由浅入深系列   
 
+- [x] [JavaScript面试题积累(实时更新)](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/JavaScript%E9%9D%A2%E8%AF%95.md) --实时更新   
 - [x] [JavaScript数据类型](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md) --2021-08-05
-- [x] [JavaScript面试题积累(实时更新)](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/JavaScript%E9%9D%A2%E8%AF%95.md) --实时更新  
-
 
 ### React笔记  
 
