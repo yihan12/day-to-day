@@ -28,6 +28,8 @@ Object是JavaScript中所有对象的父对象
 * `Object ` 
 * `Function`  
 * `Array`  
+* `Date`  
+* `RegExp`  
 </p>
 </details>  
 
