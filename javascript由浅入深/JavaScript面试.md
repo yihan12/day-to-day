@@ -13,6 +13,7 @@
 Object是JavaScript中所有对象的父对象  
 数据封装类对象：`Object`、`Array`、`Boolean`、`Number`、和`String`  
 其他对象：`Function`、`Arguments`、`Math`、`Date`、`RegExp`、`Error`  
+[js数据类型](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)  
 </p>
 </details>  
 
