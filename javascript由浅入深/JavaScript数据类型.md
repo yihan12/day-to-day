@@ -157,4 +157,5 @@ console.log(typeof 123) //number
 console.log(typeof '123') //string
 console.log(typeof true) //boolean
 console.log(typeof Symbol()) //symbol
+console.log(typeof function () {}) //function
 ```
