@@ -144,7 +144,17 @@ console.log(typeof null) //object
 
 ### 判断JavaScript数据类型的方式   
 
-* `instanceof`  
 * `typeof`  
+* `instanceof`    
 * `toString`  
 * `jquery`
+
+#### `typeof`适用场景： 
+
+```javascript
+console.log(typeof undefined) //undefined
+console.log(typeof 123) //number
+console.log(typeof '123') //string
+console.log(typeof true) //boolean
+console.log(typeof Symbol()) //symbol
+```
