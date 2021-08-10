@@ -142,7 +142,7 @@ console.log(typeof null) //object
 > （3）对象没有赋值的属性，该属性的值为undefined;  
 > （4）函数没有返回值时，默认返回undefined。  
 
-### 判断JavaScript数据类型的方式   
+### 判断JavaScript数据类型的方式(四种)   
 
 * `typeof`  
 * `instanceof`    
@@ -158,4 +158,26 @@ console.log(typeof '123') //string
 console.log(typeof true) //boolean
 console.log(typeof Symbol()) //symbol
 console.log(typeof function () {}) //function
+```
+
+#### `typeof`不适用场景： 
+
+```javascript
+console.log(typeof new Date()) //object
+console.log(typeof /^\d*$/) //object
+console.log(typeof {}) //object
+console.log(typeof []) //object
+console.log(typeof null) //object
+```  
+
+#### 面试题：  
+
+```javascript
+let foo = function bar() {
+  return 123
+}
+console.log(typeof bar) // undefined
+console.log(typeof foo)
+// console.log(typeof bar()) // Uncaught ReferenceError: bar is not defined
+console.log(typeof foo()) // number
 ```
