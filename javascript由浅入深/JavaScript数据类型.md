@@ -142,4 +142,9 @@ console.log(typeof null) //object
 > （3）对象没有赋值的属性，该属性的值为undefined;  
 > （4）函数没有返回值时，默认返回undefined。  
 
+### 判断JavaScript数据类型的方式   
 
+* `instanceof`  
+* `typeof`  
+* `toString`  
+* `jquery`
