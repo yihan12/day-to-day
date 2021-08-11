@@ -210,3 +210,18 @@ console.log(false instanceof Boolean) //false
 
 > 注：`Object.prototype.toString.call()` 是最常用判断类型的方法。
 
+##### 各个类型判断  
+
+```javascript
+console.log(Object.prototype.toString.call('123')) //[object String]
+console.log(Object.prototype.toString.call(123)) //[object Number]
+console.log(Object.prototype.toString.call(null)) //[object Null]
+console.log(Object.prototype.toString.call(undefined)) //[object Undefined]
+console.log(Object.prototype.toString.call(true)) //[object Boolean]
+console.log(Object.prototype.toString.call([])) //[object Array]
+console.log(Object.prototype.toString.call({})) //[object Object]
+console.log(Object.prototype.toString.call(function () {})) //[object Function]
+console.log(Object.prototype.toString.call(Symbol())) //[object Symbol]
+console.log(Object.prototype.toString.call(-1n)) //[object BigInt]
+```
+
