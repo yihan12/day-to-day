@@ -183,3 +183,5 @@ console.log(typeof foo)
 // console.log(typeof bar()) // Uncaught ReferenceError: bar is not defined
 console.log(typeof foo()) // number
 ```
+
+#### `instanceof`
