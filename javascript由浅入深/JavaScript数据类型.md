@@ -206,3 +206,7 @@ console.log(false instanceof Boolean) //false
 
 #### `toString`、`Object.prototype.toString.call()`  
 
+> `toString`：每一个引用类型都有`toString`方法，默认情况下。`toString()`方法被每个`object`对象继承
+
+> 注：`Object.prototype.toString.call()` 是最常用判断类型的方法。
+
