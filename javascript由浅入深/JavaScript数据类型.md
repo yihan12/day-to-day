@@ -225,3 +225,16 @@ console.log(Object.prototype.toString.call(Symbol())) //[object Symbol]
 console.log(Object.prototype.toString.call(-1n)) //[object BigInt]
 ```
 
+##### 特殊的  
+
+```javascript
+console.log(Object.prototype.toString.call(new String())) //[object String]
+console.log(Object.prototype.toString.call(new Object())) //[object Object]
+console.log(Object.prototype.toString.call(new Date())) //[object Date]
+console.log(Object.prototype.toString.call(new RegExp())) //[object RegExp]
+console.log(Object.prototype.toString.call(new Array())) //[object Array]
+console.log(Object.prototype.toString.call(new Error())) //[object Error]
+console.log(Object.prototype.toString.call(Math)) //[object Math]
+console.log(Object.prototype.toString.call(JSON)) //[object JSON]
+console.log(Object.prototype.toString.call(window)) //[object Window]
+```
