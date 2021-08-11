@@ -185,3 +185,21 @@ console.log(typeof foo()) // number
 ```
 
 #### `instanceof`
+
+> 注：不适合做类型的判断。  
+
+```javascript
+console.log([] instanceof Array) //true
+console.log([] instanceof Object) //true
+
+console.log(new Date() instanceof Date) //true
+console.log(new Date() instanceof Object) //true
+
+console.log(new RegExp() instanceof RegExp) //true
+console.log(new RegExp() instanceof Object) //true
+
+console.log(123 instanceof Number) //false
+console.log(123 instanceof Object) //false
+console.log('123' instanceof String) //false
+console.log(false instanceof Boolean) //false
+```
