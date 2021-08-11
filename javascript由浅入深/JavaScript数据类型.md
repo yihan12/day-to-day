@@ -203,3 +203,6 @@ console.log(123 instanceof Object) //false
 console.log('123' instanceof String) //false
 console.log(false instanceof Boolean) //false
 ```
+
+#### `toString`、`Object.prototype.toString.call()`  
+
