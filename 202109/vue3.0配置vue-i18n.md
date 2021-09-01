@@ -11,6 +11,8 @@ npm install vue-i18n@next --save
 yarn add vue-i18n@next --save
 ```
 
+安装完成之后，可以看一下package.json文件；看是否是最新版的vue-i18n，我安装的是9.1.7。
+
 ### 在项目src文件夹中新建lang文件夹
 
 新建lang文件夹，在lang文件夹中新建三个js文件:
@@ -49,6 +51,7 @@ const messages = {
 // 默认语言
 // const langDefault = 'zh-CN'
 const langDefault = 'zh-TW'
+
 const i18n = createI18n({
   locale: langDefault,		//默认显示的语言 
   messages
@@ -72,8 +75,13 @@ app.mount("#app");
 ```
 
 ### 页面中使用  
-
+template:  
 ```javascript
-{{$t('header.text')}}
+<div>{{$t('header.text')}}</div>
+```
+
+js: 
+```javascript
+this.$t('header.text')
 ```
 
