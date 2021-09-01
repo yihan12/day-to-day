@@ -1,12 +1,14 @@
 ### 项目安装vue-i18n  
 
+需要安装最新版的vue-i18n  
+
 ```javascript
-npm install vue-i18n --save
+npm install vue-i18n@next --save
 ```
 
 或者用yarn
 ```javascript
-yarn add vue-i18n --save
+yarn add vue-i18n@next --save
 ```
 
 ### 在项目src文件夹中新建lang文件夹
