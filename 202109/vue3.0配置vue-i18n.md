@@ -75,11 +75,13 @@ app.mount("#app");
 ```
 
 ### 页面中使用  
+在 HTML 模板中使用  
 template:  
 ```javascript
 <div>{{$t('header.text')}}</div>
 ```
 
+在 js 中使用  
 js: 
 ```javascript
 this.$t('header.text')
