@@ -1,9 +1,9 @@
-### 一、浏览器自带
+### 一、浏览器自带(性能较差)
 
 ```javascript
-const num=12345.6789
- 
-num.toLocaleString();＝>"12,345.679"
+const num=1234.6789
+
+console.log(num.toLocaleString());;//"1,234.679"
 ```
 
 ### 二、正则匹配
