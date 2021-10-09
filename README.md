@@ -21,7 +21,7 @@
 - [x] [nvm nodeJs版本管理工具使用](https://github.com/yihan12/day-to-day/blob/master/202108/nvm%20nodeJs%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8.md) --2021-08-31  
 - [x] [vue 3.0 加载echarts插件](https://github.com/yihan12/day-to-day/blob/master/202108/vue%203.0%20%E5%8A%A0%E8%BD%BDecharts%E6%8F%92%E4%BB%B6.md) --2021-08-31  
 - [x] [vue3.0配置vue-i18n](https://github.com/yihan12/day-to-day/blob/master/202109/vue3.0%E9%85%8D%E7%BD%AEvue-i18n.md) --2021-09-01  
-- [x] [js千分位加逗号转换](https://github.com/yihan12/day-to-day/blob/master/202109/js%E5%8D%83%E5%88%86%E4%BD%8D%E5%8A%A0%E9%80%97%E5%8F%B7%E8%BD%AC%E6%8D%A2.md) --2021-09-28  
+- [x] [js千分位加逗号转换](https://github.com/yihan12/day-to-day/blob/master/202109/js%E5%8D%83%E4%BD%8D%E5%8A%A0%E9%80%97%E5%8F%B7%E8%BD%AC%E6%8D%A2.md) --2021-09-28  
 
 # 笔记  
 ### javascript由浅入深系列   
