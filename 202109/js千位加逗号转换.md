@@ -9,11 +9,10 @@ console.log(num.toLocaleString());;//"1,234.679"
 ### 二、正则匹配
 
 ```javascript
-function format (num) {
- 
-    return (num+ '').replace(/(\d{1,3})(?=(\d{3})+(?:$|\.))/g,'$1,');
- 
+ function format (num) {
+  return (num+ '').replace(/(\d{1,3})(?=(\d{3})+(?:$|\.))/g,'$1,');
 }
+console.log(format(13124122223.12333));//13,124,122,223.12,333
 ```
 
 ### 三、自写逻辑
