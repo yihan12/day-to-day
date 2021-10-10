@@ -1,8 +1,16 @@
-### fackbook 分享常见问题以及需要注意的点
+### facebook分享h5分享图文注意点
 
-首先需要原生app分享成功，另外传送图片还文字需要控制。
+1. 分享需要原生配合，一起实现分享功能。
 
-注意：
+2. 其次需要在index.html的头部配置meta如下内容
 
-1、
+   ```javascript
+   <meta property="og:site_name" content="site name"/>
+   <meta property="og:title" content="title"/>
+   <meta property="og:type" content="website"/>
+   <meta property="og:description" content="description"/>
+   <meta property="og:image" content="http://yourdomain.com/images/hatenablog.png"/>
+   <meta property="og:url" content="http://yourdomain.com/test.html">
+   ```
 
+   
