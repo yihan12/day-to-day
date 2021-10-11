@@ -22,6 +22,7 @@
 - [x] [vue 3.0 加载echarts插件](https://github.com/yihan12/day-to-day/blob/master/202108/vue%203.0%20%E5%8A%A0%E8%BD%BDecharts%E6%8F%92%E4%BB%B6.md) --2021-08-31  
 - [x] [vue3.0配置vue-i18n](https://github.com/yihan12/day-to-day/blob/master/202109/vue3.0%E9%85%8D%E7%BD%AEvue-i18n.md) --2021-09-01  
 - [x] [js千分位加逗号转换](https://github.com/yihan12/day-to-day/blob/master/202109/js%E5%8D%83%E4%BD%8D%E5%8A%A0%E9%80%97%E5%8F%B7%E8%BD%AC%E6%8D%A2.md) --2021-09-28  
+- [x] [fackbook分享bug](https://github.com/yihan12/day-to-day/blob/master/202110/fackbook%E5%88%86%E4%BA%ABbug.md) --2021-10-11  
 
 # 笔记  
 ### javascript由浅入深系列   
