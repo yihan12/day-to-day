@@ -13,7 +13,7 @@
    <meta property="og:url" content="http://yourdomain.com/test.html">
    ```
    
-   3.url中的content网址必须是标注网址，不能加任何参数。  
+3. url中的content网址必须是标注网址，不能加任何参数。  
    因此，分享页需要绑定用户不能直接通过一下形式  
    
    ```javascript
