@@ -13,4 +13,4 @@
    <meta property="og:url" content="http://yourdomain.com/test.html">
    ```
 
-   
+3.url中的content网址必须是标注网址，不能加任何参数。
