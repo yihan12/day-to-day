@@ -33,3 +33,5 @@
    ```javascript
    https://www.your-domain.com/2/68/your-page.html
    ```
+   
+ 4.图片像素必须是100*100 
