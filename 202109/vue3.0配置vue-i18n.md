@@ -78,12 +78,21 @@ app.mount("#app");
 在 HTML 模板中使用  
 template:  
 ```javascript
-<div>{{$t('header.text')}}</div>
+<div>{{t('header.text')}}</div>
 ```
 
 在 js 中使用  
 js: 
 ```javascript
-this.$t('header.text')
+import { useI18n } from 'vue-i18n'
+
+export default{
+  setup(){
+    const {t} = useI18n()
+    return {
+      t
+    }
+  }
+}
 ```
 
