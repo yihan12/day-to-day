@@ -28,9 +28,18 @@
 ### javascript由浅入深系列   
 
 - [x] [JavaScript面试题积累(实时更新)](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/JavaScript%E9%9D%A2%E8%AF%95.md) --实时更新   
-
 - [x] [JavaScript数据类型](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md) --2021-08-05  
 - [x] [不知道的数据转换](https://github.com/yihan12/day-to-day/blob/master/javascript%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2.md) --2021-08-12  
+
+
+
+### Javascript高级程序技术笔记
+
+- [x] [1.JS--什么是JavaScript]()  --2022-03-17  
+
+- [x] [2.JS--HTML中的javascript]()  --2022-03-17  
+- [x] [3.JS--语言基础]() --2022-03-17  
+- [x] [4.JS--变量、作用域与内存]()   --2022-03-17  
 
 ### React笔记  
 
@@ -71,8 +80,8 @@
 - [x] [普通下载 && Vue文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md) --2020-12-28  
 - [x] [js千分位加逗号转换](https://github.com/yihan12/day-to-day/blob/master/202109/js%E5%8D%83%E5%88%86%E4%BD%8D%E5%8A%A0%E9%80%97%E5%8F%B7%E8%BD%AC%E6%8D%A2.md) --2021-09-28   
 - [x] [fackbook分享bug](https://github.com/yihan12/day-to-day/blob/master/202110/fackbook%E5%88%86%E4%BA%ABbug.md) --2021-10-11   
-</details> 
-   
+  </details> 
+  
 
 ### Vue  
 
@@ -96,7 +105,7 @@
 
 ### React  
 - [x] [React Hooks学习积累](https://github.com/yihan12/day-to-day/blob/master/202106/React%20Hooks%20%E5%AD%A6%E4%B9%A0%E7%A7%AF%E7%B4%AF.md) --2021-07-01  
-   
+  
 ### CSS    
 - [x] [自适应好用的一个css](https://github.com/yihan12/day-to-day/blob/master/202104/%E8%87%AA%E9%80%82%E5%BA%94%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%80%E4%B8%AAcss.md)  --2021-04-05  
 - [x] [object-fit 和 object-position](https://github.com/yihan12/day-to-day/blob/master/202009/object-fit%E5%92%8Cobject-position.md) --2019-11-15    
@@ -104,7 +113,7 @@
 - [x] [文字超出省略号类型](https://github.com/yihan12/day-to-day/blob/master/202009/%E6%96%87%E5%AD%97%E8%B6%85%E5%87%BA%E7%9C%81%E7%95%A5%E5%8F%B7%E7%B1%BB%E5%9E%8B.md) --2019-10-08  
 - [x] [Css3无缝滚动防抖](https://github.com/yihan12/day-to-day/blob/master/202009/Css3%E6%97%A0%E7%BC%9D%E6%BB%9A%E5%8A%A8%E9%98%B2%E6%8A%96.md) --2019-04-08  
 <details><summary><b>显示更多</b></summary>
-   
+
 - [x] [css隐藏滚动条](https://github.com/yihan12/day-to-day/blob/master/202010/css%E9%9A%90%E8%97%8F%E6%BB%9A%E5%8A%A8%E6%9D%A1.md)  --2019-04-10  
 - [x] [日常页码样式问题](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%97%A5%E5%B8%B8%E9%A1%B5%E7%A0%81%E6%A0%B7%E5%BC%8F%E9%97%AE%E9%A2%98.md) --2020-11-03  
 - [x] [三大样式穿透](https://github.com/yihan12/day-to-day/blob/master/202103/%E4%B8%89%E5%A4%A7%E6%A0%B7%E5%BC%8F%E7%A9%BF%E9%80%8F.md) --2020-11-15  
@@ -137,12 +146,12 @@
 ### 微信   
 - [x] [IOS微信分享问题（h5页面），签名报错invalid signature](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E5%BE%AE%E4%BF%A1%E5%88%86%E4%BA%AB%E9%97%AE%E9%A2%98%EF%BC%88h5%E9%A1%B5%E9%9D%A2%EF%BC%89%EF%BC%8C%E7%AD%BE%E5%90%8D%E6%8A%A5%E9%94%99invalid%20signature.md) --2019-09-25  
 - [x] [IOS调用微信扫一扫scanQRCode报错the permission value is offline verifying](https://github.com/yihan12/day-to-day/blob/master/202009/IOS%E8%B0%83%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%89%AB%E4%B8%80%E6%89%ABscanQRCode%E6%8A%A5%E9%94%99the%20permission%20value%20is%20offline%20verifying.md) -2019-09-27  
- 
+
 ### VScode  
 - [x] [vue项目Ctrl+s vscode代码自动格式化](https://github.com/yihan12/day-to-day/blob/master/202009/vue%E9%A1%B9%E7%9B%AECtrl%2Bs%20vscode%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E6%A0%BC%E5%BC%8F%E5%8C%96.md) --2019-09-11   
 - [x] [vscode使用chrome调试报错](https://github.com/yihan12/day-to-day/blob/master/202103/vscode%E4%BD%BF%E7%94%A8chrome%E8%B0%83%E8%AF%95%E6%8A%A5%E9%94%99.md) --2020-11-15  
 - [x] [vscode启动项目EsLint报错(.eslintrc.js文件)](https://github.com/yihan12/day-to-day/blob/master/202102/vscode%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AEEsLint%E6%8A%A5%E9%94%99(.eslintrc.js%E6%96%87%E4%BB%B6).md) --2021-02-22  
- 
+
 ### NPM  
 - [x] [npm i -S -D -g的区别](https://github.com/yihan12/day-to-day/blob/master/202009/npm%20i%20-S%20-D%20-g%E7%9A%84%E5%8C%BA%E5%88%AB.md) --2019-09-25  
 - [x] [npm insatll 下载依赖总会卡住](https://github.com/yihan12/day-to-day/blob/master/202102/npm%20insatll%20%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E6%80%BB%E4%BC%9A%E5%8D%A1%E4%BD%8F.md) --2021-04-12  
@@ -156,5 +165,4 @@
 ### Git   
 - [x] [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md) --2019-11-29  
 - [x] [Github新增](http://)
-
 
