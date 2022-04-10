@@ -167,5 +167,5 @@
 
 ### Git   
 - [x] [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md) --2019-11-29  
-- [x] [Github新增](http://)
+- [x] [Github新增]()
 
