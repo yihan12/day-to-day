@@ -1,0 +1,4 @@
+*.js linguist-language=javascript
+*.vue linguist-language=vue
+*.md linguist-language=md
+*.html linguist-language=HTML
