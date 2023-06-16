@@ -87,7 +87,7 @@
 </details>
 
 ### Vue3
-- [x] [Vue3项目重进Echarts页面，echarts不渲染]()
+- [x] [Vue3项目重进Echarts页面，echarts不渲染](https://github.com/yihan12/day-to-day/blob/master/Bug/Vue3/Vue3_echarts1.md)
 
 ### Vue
 
