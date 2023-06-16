@@ -6,14 +6,14 @@
 ### 解决
 
 #### 方法一
-
+销毁组件的时候，让'_echarts_instance_'为空
 ```javascript
 document.getElementById('ActionFinishEcharts').setAttribute('_echarts_instance_','')
 myChart.setOption(option,true);
 ```
 
 #### 方法二
-
+初始化的时候移除之前的'_echarts_instance_'
 ```javascript
 let a = document.getElementById("ActionFinishEcharts")
 a.removeAttribute('_echarts_instance_')
