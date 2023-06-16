@@ -86,6 +86,9 @@
 - [x] [fackbook 分享 bug](https://github.com/yihan12/day-to-day/blob/master/202110/fackbook%E5%88%86%E4%BA%ABbug.md) --2021-10-11
 </details>
 
+### Vue3
+-[x] [Vue3项目重进Echarts页面，echarts不渲染]()
+
 ### Vue
 
 - [x] [Cannot read property 'match' of undefined](https://github.com/yihan12/day-to-day/blob/master/202107/Cannot%20read%20property%20'match'%20of%20undefined.md) --2021-07-09
