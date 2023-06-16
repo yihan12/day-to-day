@@ -7,6 +7,14 @@
 如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！  
 如果 GitHub 网速慢，可以进入国内博客：CSDN:[易函 123](https://blog.csdn.net/qq_43485006)/思否:[易函 123](https://segmentfault.com/u/yihan123)/掘金:[易函 123](https://juejin.cn/user/3016715638158381)
 
+# 个人笔记
+* [《Bug归纳》](https://github.com/yihan12/day-to-day)
+* [《LeetCode训练》](https://github.com/yihan12/LeetCode-exercise)
+* [《ES6 学习笔记》](https://github.com/yihan12/build-up_ES6)
+* 《Node.js学习笔记》
+* 《TypeScript学习笔记》
+* 《Vue2源码分析》
+
 # 最近更新
 
 > --2021-06-30~~至今
