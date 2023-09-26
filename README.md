@@ -16,6 +16,7 @@
 * 《Node.js学习笔记》
 * 《TypeScript学习笔记》
 * 《Vue2源码分析》
+* 《underscore源码分析》
 
 # 最近更新
 
