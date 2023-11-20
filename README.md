@@ -95,6 +95,7 @@
   * - [x] [普通下载 && Vue 文件图片下载处理](https://github.com/yihan12/day-to-day/blob/master/202011/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%20%26%26%20Vue%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%A4%84%E7%90%86.md) --2020-12-28
   * - [x] [js 千分位加逗号转换](https://github.com/yihan12/day-to-day/blob/master/202109/js%E5%8D%83%E5%88%86%E4%BD%8D%E5%8A%A0%E9%80%97%E5%8F%B7%E8%BD%AC%E6%8D%A2.md) --2021-09-28
   * - [x] [fackbook 分享 bug](https://github.com/yihan12/day-to-day/blob/master/202110/fackbook%E5%88%86%E4%BA%ABbug.md) --2021-10-11
+  * - [x] [解决JS处理api返回number字段精度丢失问题]()  --2023-11-20  
 </details>
 
 - [x] **Vue3**
