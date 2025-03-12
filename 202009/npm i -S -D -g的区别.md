@@ -1,4 +1,7 @@
 ### 1)npm -i    ==    npm install
+```javascript
+npm install
+```
 
 ### 2)写入dependcies,发布到开发环境
 
