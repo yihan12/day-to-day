@@ -17,6 +17,7 @@
 * 《TypeScript学习笔记》
 * 《Vue2源码分析》
 * 《underscore源码分析》
+* 《lodash源码分析》
 
 # 最近更新
 
