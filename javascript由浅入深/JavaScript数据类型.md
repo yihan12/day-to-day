@@ -84,10 +84,10 @@ console.lgo(s1.age()) // Uncaught TypeError: s1.age is not a function
 
 new运算符写法,既能添加方法属性，还能使用它的内置方法`substring`
 ```javascript
-const s2 = new String('name.Lee')
-s2.name = 'lee'
+const s2 = new String('name.Lee');
+s2.name = 'lee';
 s2.age = function () {
-  return 100
+  return 100;
 }
 console.log(s2.substring(5)) // =>Lee
 console.log(typeof s2) // object
