@@ -196,6 +196,7 @@
 - [x] **Git**
 
   * - [x] [git 出现 fatal: unable to access 问题](https://github.com/yihan12/day-to-day/blob/master/202010/git%20%E5%87%BA%E7%8E%B0%20fatal:%20unable%20to%20access%20%E9%97%AE%E9%A2%98.md) --2019-11-29
+  * - [x] [Git 提示 "All conflicts fixed but you are still merging"](https://github.com/yihan12/day-to-day/blob/master/2025/Git%20%E6%8F%90%E7%A4%BA%20%22All%20conflicts%20fixed%20but%20you%20are%20still%20merging%22.md)  --2025-06-17  
 
 - [x] **Html2canvas**
 
