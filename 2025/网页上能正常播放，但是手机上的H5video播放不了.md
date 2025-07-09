@@ -1,4 +1,4 @@
-如果网页可以正常访问视频（例如直接打开链接能播放），但使用 `<video>` 标签无法播放，可能是以下几个原因导致的：
+![image](https://github.com/user-attachments/assets/97053dcb-5ebd-459a-97d3-c8c9de410dd9)如果网页可以正常访问视频（例如直接打开链接能播放），但使用 `<video>` 标签无法播放，可能是以下几个原因导致的：
 
 ---
 
@@ -162,3 +162,4 @@ ffmpeg -i 1728898660108-P10PROMAX.mp4 -vcodec libx264 -acodec aac outfile.mp4
 
 # 参考链接
 - [x] [iOS 音视频(一) - 基础知识](https://www.jianshu.com/p/80a4348982c8)
+- [x] [ios官方文档对video格式H.264的相关描述](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/StreamingMediaGuide/FrequentlyAskedQuestions/FrequentlyAskedQuestions.html)
