@@ -151,3 +151,10 @@ curl -I "https://your-video-url.mp4"
 - **视频编码信息（`ffprobe` 结果）**
 
 这样能更精准定位问题！ 🚀
+
+
+# 终极修改
+下载ffmpeg,操作转化格式
+```
+ffmpeg -i 1728898660108-P10PROMAX.mp4 -vcodec libx264 -acodec aac outfile.mp4
+```
