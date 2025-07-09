@@ -158,3 +158,7 @@ curl -I "https://your-video-url.mp4"
 ```
 ffmpeg -i 1728898660108-P10PROMAX.mp4 -vcodec libx264 -acodec aac outfile.mp4
 ```
+
+
+# 参考链接
+- [x] [iOS 音视频(一) - 基础知识](https://www.jianshu.com/p/80a4348982c8)
