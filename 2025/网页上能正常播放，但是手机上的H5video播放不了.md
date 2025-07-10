@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97053dcb-5ebd-459a-97d3-c8c9de410dd9)如果网页可以正常访问视频（例如直接打开链接能播放），但使用 `<video>` 标签无法播放，可能是以下几个原因导致的：
+如果网页可以正常访问视频（例如直接打开链接能播放），但使用 `<video>` 标签无法播放，可能是以下几个原因导致的：
 
 ---
 
@@ -50,6 +50,7 @@
 
 ## **3. 视频编码格式问题**
 某些浏览器对 MP4 的编码格式（如 H.264、H.265）有要求，如果视频编码不兼容，可能导致无法播放。
+![image](https://github.com/user-attachments/assets/97053dcb-5ebd-459a-97d3-c8c9de410dd9)
 
 ### **检查方法**
 - 使用 `ffprobe`（FFmpeg 工具）检查视频编码：
