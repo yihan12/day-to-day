@@ -143,6 +143,7 @@ CSDN:[易函 123](https://blog.csdn.net/qq_43485006)/思否:[易函 123](https:/
 
 - [x] **CSS**
 
+  * - [x] [@import url(""); 引入scss部分手机机型不支持](https://github.com/yihan12/day-to-day/blob/master/2025/%40import%20url(%22%22)%3B%20%E5%BC%95%E5%85%A5scss%E9%83%A8%E5%88%86%E6%89%8B%E6%9C%BA%E6%9C%BA%E5%9E%8B%E4%B8%8D%E6%94%AF%E6%8C%81.md)  --2025-07-15    
   * - [x] [自适应好用的一个 css](https://github.com/yihan12/day-to-day/blob/master/202104/%E8%87%AA%E9%80%82%E5%BA%94%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%80%E4%B8%AAcss.md) --2021-04-05
   * - [x] [object-fit 和 object-position](https://github.com/yihan12/day-to-day/blob/master/202009/object-fit%E5%92%8Cobject-position.md) --2019-11-15
   * - [x] [溢出隐藏的内容后面再添加几个字](https://github.com/yihan12/day-to-day/blob/master/202009/%E6%BA%A2%E5%87%BA%E9%9A%90%E8%97%8F%E7%9A%84%E5%86%85%E5%AE%B9%E5%90%8E%E9%9D%A2%E5%86%8D%E6%B7%BB%E5%8A%A0%E5%87%A0%E4%B8%AA%E5%AD%97.md) --2019-10-22
